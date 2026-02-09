@@ -1,0 +1,124 @@
+.lesson-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.lesson-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover:not(.locked) {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  &.locked {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  &.completed {
+    border-left: 4px solid #4CAF50;
+  }
+
+  .lesson-icon {
+    font-size: 2.5rem;
+    color: #8B0000;
+    min-width: 50px;
+    text-align: center;
+  }
+
+  .lesson-content {
+    flex: 1;
+
+    .lesson-header {
+      margin-bottom: 10px;
+
+      .lesson-title {
+        font-size: 1.3rem;
+        font-weight: 600;
+        color: #333;
+        margin: 0 0 5px 0;
+      }
+
+      .lesson-title-tibetan {
+        font-size: 1.1rem;
+        color: #8B0000;
+      }
+    }
+
+    .lesson-description {
+      color: #666;
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+
+    .lesson-meta {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+
+      .lesson-badge {
+        background-color: #FFD700;
+        padding: 4px 12px;
+        border-radius: 12px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        text-transform: capitalize;
+      }
+
+      .lesson-info {
+        color: #888;
+        font-size: 0.9rem;
+      }
+    }
+  }
+
+  .lesson-status {
+    .status-label {
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-weight: 600;
+      font-size: 0.9rem;
+
+      &.locked {
+        background-color: #f0f0f0;
+        color: #888;
+      }
+
+      &.completed {
+        background-color: #e8f5e9;
+        color: #4CAF50;
+      }
+
+      &.available {
+        background-color: #8B0000;
+        color: white;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .lesson-card {
+    flex-direction: column;
+    align-items: flex-start;
+
+    .lesson-icon {
+      margin-bottom: 10px;
+    }
+
+    .lesson-status {
+      width: 100%;
+      text-align: center;
+    }
+  }
+}

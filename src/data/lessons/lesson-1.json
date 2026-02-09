@@ -1,0 +1,259 @@
+{
+  "id": "lesson-1",
+  "title": "Sentence Structure Basics",
+  "titleTibetan": "ཚིག་གྲུབ་གཞི་རྩ།",
+  "level": "beginner",
+  "category": "grammar",
+  "sections": [
+    {
+      "type": "introduction",
+      "title": "The SOV Structure in Classical Tibetan",
+      "content": "Classical Tibetan, the language of Buddhist scriptures and philosophical texts, follows a Subject-Object-Verb (SOV) word order. This is fundamentally different from English (SVO) or French (SVO). Understanding this basic structure is essential for reading sutras, commentaries, and classical Buddhist literature. In Tibetan texts, you will see patterns like 'The Buddha the dharma teaches' instead of 'The Buddha teaches the dharma'.",
+      "contentTibetan": "བོད་ཀྱི་ཡིག་ཆ་རྙིང་པའི་ནང་ཚིག་གྲུབ་ནི་བྱ་ཚིག་མཐར་འབྱོར་བ་ཞིག་རེད། འདི་ནི་ནང་པའི་བསྟན་བཅོས་ཀློག་པའི་གཞི་རྩ་ཡིན།"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Essential Classical Vocabulary",
+      "words": [
+        {
+          "id": "vocab-1",
+          "tibetan": "སངས་རྒྱས",
+          "transliteration": "sangs rgyas",
+          "english": "Buddha (the Awakened One)",
+          "example": {
+            "tibetan": "སངས་རྒྱས་ཀྱིས་ཆོས་བསྟན།",
+            "transliteration": "sangs rgyas kyis chos bstan",
+            "english": "The Buddha taught the dharma.",
+            "literalTranslation": "Buddha-by dharma taught",
+            "note": "Classic example of SOV: Subject (Buddha) + Object (dharma) + Verb (taught)"
+          }
+        },
+        {
+          "id": "vocab-2",
+          "tibetan": "ཆོས",
+          "transliteration": "chos",
+          "english": "dharma, teaching, phenomenon",
+          "example": {
+            "tibetan": "བདག་གིས་ཆོས་ཉན།",
+            "transliteration": "bdag gis chos nyan",
+            "english": "I listen to the dharma.",
+            "literalTranslation": "I-by dharma listen",
+            "note": "བདག (bdag) is the classical/formal 'I' used in texts"
+          }
+        },
+        {
+          "id": "vocab-3",
+          "tibetan": "སེམས་ཅན",
+          "transliteration": "sems can",
+          "english": "sentient being",
+          "example": {
+            "tibetan": "སེམས་ཅན་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་རང་བཞིན་ལྡན།",
+            "transliteration": "sems can thams cad sangs rgyas kyi rang bzhin ldan",
+            "english": "All sentient beings possess Buddha nature.",
+            "literalTranslation": "Sentient-beings all Buddha's nature possess",
+            "note": "ཐམས་ཅད (thams cad) means 'all' and follows the noun it modifies"
+          }
+        },
+        {
+          "id": "vocab-4",
+          "tibetan": "བླ་མ",
+          "transliteration": "bla ma",
+          "english": "lama, spiritual teacher",
+          "example": {
+            "tibetan": "བླ་མ་ལ་ཕྱག་འཚལ།",
+            "transliteration": "bla ma la phyag 'tshal",
+            "english": "I prostrate to the lama.",
+            "literalTranslation": "Lama-to prostration make",
+            "note": "ལ (la) is a case particle indicating the object/recipient"
+          }
+        },
+        {
+          "id": "vocab-5",
+          "tibetan": "བདག",
+          "transliteration": "bdag",
+          "english": "I, self (classical/formal)",
+          "example": {
+            "tibetan": "བདག་གིས་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མཆི།",
+            "transliteration": "bdag gis dkon mchog gsum la skyabs su mchi",
+            "english": "I take refuge in the Three Jewels.",
+            "literalTranslation": "I-by Three-Jewels-to refuge-as go",
+            "note": "Common opening phrase in Buddhist texts"
+          }
+        },
+        {
+          "id": "vocab-6",
+          "tibetan": "སློབ་མ",
+          "transliteration": "slob ma",
+          "english": "disciple, student",
+          "example": {
+            "tibetan": "སློབ་མས་བསྟན་བཅོས་བཀླགས།",
+            "transliteration": "slob mas bstan bcos bklags",
+            "english": "The disciple read the treatise.",
+            "literalTranslation": "Disciple-by treatise read",
+            "note": "བསྟན་བཅོས (bstan bcos) = philosophical treatise"
+          }
+        },
+        {
+          "id": "vocab-7",
+          "tibetan": "བསྟན་བཅོས",
+          "transliteration": "bstan bcos",
+          "english": "treatise, shastra, philosophical text",
+          "example": {
+            "tibetan": "སློབ་དཔོན་གྱིས་བསྟན་བཅོས་མཛད།",
+            "transliteration": "slob dpon gyis bstan bcos mdzad",
+            "english": "The master composed a treatise.",
+            "literalTranslation": "Master-by treatise composed",
+            "note": "མཛད (mdzad) is an honorific verb form"
+          }
+        },
+        {
+          "id": "vocab-8",
+          "tibetan": "སྙིང་རྗེ",
+          "transliteration": "snying rje",
+          "english": "compassion",
+          "example": {
+            "tibetan": "བྱང་ཆུབ་སེམས་དཔས་སྙིང་རྗེ་སྒོམ།",
+            "transliteration": "byang chub sems dpas snying rje sgom",
+            "english": "The bodhisattva meditates on compassion.",
+            "literalTranslation": "Bodhisattva-by compassion meditates",
+            "note": "སྒོམ (sgom) = to meditate, cultivate"
+          }
+        },
+        {
+          "id": "vocab-9",
+          "tibetan": "ཐམས་ཅད",
+          "transliteration": "thams cad",
+          "english": "all, everything",
+          "example": {
+            "tibetan": "ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད།",
+            "transliteration": "chos thams cad stong pa nyid",
+            "english": "All phenomena are emptiness.",
+            "literalTranslation": "Phenomena all emptiness are",
+            "note": "སྟོང་པ་ཉིད (stong pa nyid) = emptiness, fundamental Buddhist concept"
+          }
+        },
+        {
+          "id": "vocab-10",
+          "tibetan": "མཁས་པ",
+          "transliteration": "mkhas pa",
+          "english": "scholar, learned one",
+          "example": {
+            "tibetan": "མཁས་པས་གསུང་རབ་བསྒྱུར།",
+            "transliteration": "mkhas pas gsung rab bsgyur",
+            "english": "The scholar translated the sacred text.",
+            "literalTranslation": "Scholar-by scripture translated",
+            "note": "གསུང་རབ (gsung rab) = sacred scripture (honorific)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Subject-Object-Verb Word Order",
+      "rule": "The Basic SOV Pattern",
+      "explanation": "In Classical Tibetan, the verb always comes at the end of the sentence. The basic pattern is: Subject + Object + Verb. The subject is often marked with the agentive particle གིས/ཀྱིས/གྱིས/ས (gis/kyis/gyis/s), and the object may be marked with other case particles like ལ (la) depending on the verb. This structure is fundamental to all Tibetan sentences, from simple statements to complex philosophical arguments in sutras and commentaries.",
+      "examples": [
+        {
+          "tibetan": "སངས་རྒྱས་ཀྱིས་ཆོས་བསྟན།",
+          "transliteration": "sangs rgyas kyis chos bstan",
+          "english": "The Buddha taught the dharma.",
+          "breakdown": [
+            { "word": "སངས་རྒྱས", "meaning": "Buddha", "role": "subject" },
+            { "word": "ཀྱིས", "meaning": "(agentive particle)", "role": "case marker" },
+            { "word": "ཆོས", "meaning": "dharma", "role": "object" },
+            { "word": "བསྟན", "meaning": "taught", "role": "verb" }
+          ],
+          "note": "This sentence structure appears throughout sutras when describing the Buddha's teachings."
+        },
+        {
+          "tibetan": "བདག་གིས་སངས་རྒྱས་ལ་མཆོད་པ་འབུལ།",
+          "transliteration": "bdag gis sangs rgyas la mchod pa 'bul",
+          "english": "I offer worship to the Buddha.",
+          "breakdown": [
+            { "word": "བདག", "meaning": "I", "role": "subject" },
+            { "word": "གིས", "meaning": "(agentive particle)", "role": "case marker" },
+            { "word": "སངས་རྒྱས", "meaning": "Buddha", "role": "indirect object" },
+            { "word": "ལ", "meaning": "(to, dative)", "role": "case marker" },
+            { "word": "མཆོད་པ", "meaning": "offerings", "role": "object" },
+            { "word": "འབུལ", "meaning": "offer", "role": "verb" }
+          ],
+          "note": "Common devotional phrase. Notice how even with two objects, the verb remains at the end."
+        },
+        {
+          "tibetan": "སློབ་མས་བསྟན་བཅོས་བཀླགས།",
+          "transliteration": "slob mas bstan bcos bklags",
+          "english": "The disciple read the treatise.",
+          "breakdown": [
+            { "word": "སློབ་མ", "meaning": "disciple", "role": "subject" },
+            { "word": "ས", "meaning": "(agentive particle)", "role": "case marker" },
+            { "word": "བསྟན་བཅོས", "meaning": "treatise", "role": "object" },
+            { "word": "བཀླགས", "meaning": "read (past)", "role": "verb" }
+          ],
+          "note": "Past tense verb form. The SOV structure remains constant across all tenses."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "The Agentive Particle",
+      "rule": "Marking the Subject with གིས/ཀྱིས/གྱིས/ས",
+      "explanation": "The agentive particle marks the agent or doer of an action. It has four forms that are used based on phonetic rules: ས (s) after ང/ན/མ/ར/ལ, གིས (gis) after other consonants, ཀྱིས (kyis) after palatalized consonants, and གྱིས (gyis) after ད and བ. This particle is essential in classical texts and helps identify who is performing the action.",
+      "examples": [
+        {
+          "tibetan": "བླ་མས་གདམས་ངག་གནང༌།",
+          "transliteration": "bla mas gdams ngag gnang",
+          "english": "The lama gave instructions.",
+          "breakdown": [
+            { "word": "བླ་མ", "meaning": "lama", "role": "subject" },
+            { "word": "ས", "meaning": "(agentive)", "role": "case marker - used because བླ་མ ends in མ" },
+            { "word": "གདམས་ངག", "meaning": "instructions, pith instructions", "role": "object" },
+            { "word": "གནང༌", "meaning": "gave (honorific)", "role": "verb" }
+          ],
+          "note": "གདམས་ངག (gdams ngag) are the essential spiritual instructions passed from teacher to student."
+        },
+        {
+          "tibetan": "དགེ་སློང་གིས་སྡོམ་པ་བསྲུངས།",
+          "transliteration": "dge slong gis sdom pa bsrungs",
+          "english": "The monk kept the vows.",
+          "breakdown": [
+            { "word": "དགེ་སློང", "meaning": "monk (bhikshu)", "role": "subject" },
+            { "word": "གིས", "meaning": "(agentive)", "role": "case marker - standard form" },
+            { "word": "སྡོམ་པ", "meaning": "vows, precepts", "role": "object" },
+            { "word": "བསྲུངས", "meaning": "kept, protected (past)", "role": "verb" }
+          ],
+          "note": "སྡོམ་པ་བསྲུང (sdom pa bsrung) - keeping vows is a central theme in monastic texts."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Practice Exercises",
+      "description": "Apply your understanding of SOV structure with these exercises based on classical texts",
+      "exerciseIds": ["exercise-1", "exercise-2", "exercise-3", "exercise-4"]
+    },
+    {
+      "type": "summary",
+      "title": "Lesson Summary",
+      "keyPoints": [
+        { "text": "Classical Tibetan follows Subject-Object-Verb (SOV) word order, unlike English", "topics": [0] },
+        { "text": "The verb always comes at the end of the sentence", "topics": [0] },
+        { "text": "The subject is marked with agentive particles: ས/གིས/ཀྱིས/གྱིས depending on the final consonant", "topics": [1] },
+        { "text": "The agentive particle form depends on the final letter of the preceding word", "topics": [1] },
+        { "text": "This structure is consistent across all classical Buddhist texts, from sutras to commentaries", "topics": [0, 1] },
+        { "text": "Understanding SOV and agentive marking is the foundation for reading Tibetan scriptures", "topics": [0, 1] }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Classical Tibetan Grammar Reference",
+      "url": "/resources/lesson-1-classical-grammar.pdf"
+    },
+    {
+      "type": "text",
+      "title": "Common Sutra Formulations",
+      "url": "/resources/lesson-1-sutra-phrases.pdf"
+    }
+  ]
+}

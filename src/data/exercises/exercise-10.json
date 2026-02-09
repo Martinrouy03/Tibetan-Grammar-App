@@ -1,0 +1,177 @@
+{
+  "id": "exercise-10",
+  "lessonId": "lesson-3",
+  "type": "multipleChoice",
+  "title": "Identify the Verb Tense",
+  "difficulty": "beginner",
+  "instruction": "Identify which verb tense (present, past, future, or imperative) is used in each sentence from classical Buddhist texts.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What tense is བལྟས in: སྤྱན་རས་གཟིགས་ཀྱིས་ཕུང་པོ་ལྔ་སྟོང་པར་བལྟས། (Avalokiteshvara ___ the five aggregates as empty.) [Heart Sutra]",
+      "questionTibetan": "སྤྱན་རས་གཟིགས་ཀྱིས་ཕུང་པོ་ལྔ་སྟོང་པར་བལྟས།",
+      "transliteration": "spyan ras gzigs kyis phung po lnga stong par bltas",
+      "english": "Avalokiteshvara ___ the five aggregates as empty.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Past (འདས་པ) — saw",
+          "transliteration": "bltas is the past stem of blta (to look)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Present (ད་ལྟ་བ) — sees",
+          "transliteration": "present would be blta",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Future (མ་འོངས་པ) — will see",
+          "transliteration": "future would be blta (same as present)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Imperative (སྐུལ་ཚིག) — look!",
+          "transliteration": "imperative would be ltos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What tense is བྱེད in: རྒྱལ་སྲས་ཀྱིས་སེམས་ཅན་གྱི་དོན་བྱེད། (The bodhisattva ___ for sentient beings' benefit.) [37 Practices]",
+      "questionTibetan": "རྒྱལ་སྲས་ཀྱིས་སེམས་ཅན་གྱི་དོན་བྱེད།",
+      "transliteration": "rgyal sras kyis sems can gyi don byed",
+      "english": "The bodhisattva ___ for sentient beings' benefit.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Present (ད་ལྟ་བ) — works",
+          "transliteration": "byed is the present stem of 'to do'",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Past (འདས་པ) — worked",
+          "transliteration": "past would be byas",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Imperative (སྐུལ་ཚིག) — work!",
+          "transliteration": "imperative would be byos",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Future (མ་འོངས་པ) — will work",
+          "transliteration": "future would be bya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "What tense is སྤོངས in: བདག་འཛིན་སྤོངས། (___ self-grasping!) [37 Practices]",
+      "questionTibetan": "བདག་འཛིན་སྤོངས།",
+      "transliteration": "bdag 'dzin spongs",
+      "english": "___ self-grasping!",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Imperative (སྐུལ་ཚིག) — Abandon!",
+          "transliteration": "spongs is the imperative stem of spong",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Present (ད་ལྟ་བ) — abandons",
+          "transliteration": "present would be spong (no -s)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Past (འདས་པ) — abandoned",
+          "transliteration": "past would be bspangs (with b- prefix)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Future (མ་འོངས་པ) — will abandon",
+          "transliteration": "future would be bspang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "What tense is བཏབ in: ཀུན་ཏུ་བཟང་པོས་སྨོན་ལམ་བཏབ། (Samantabhadra ___ aspiration prayers.) [Samantabhadra's Prayer]",
+      "questionTibetan": "ཀུན་ཏུ་བཟང་པོས་སྨོན་ལམ་བཏབ།",
+      "transliteration": "kun tu bzang pos smon lam btab",
+      "english": "Samantabhadra ___ aspiration prayers.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Past (འདས་པ) — made",
+          "transliteration": "btab is the past stem of 'debs (to set forth)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Present (ད་ལྟ་བ) — makes",
+          "transliteration": "present would be 'debs",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Future (མ་འོངས་པ) — will make",
+          "transliteration": "future would be gdab",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Imperative (སྐུལ་ཚིག) — make!",
+          "transliteration": "imperative would be thobs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "What tense is བསྒྲུབ in: བདག་གིས་འགྲོ་བ་ཀུན་གྱི་དོན་བསྒྲུབ། (I ___ the benefit of all beings.) [Samantabhadra's Prayer]",
+      "questionTibetan": "བདག་གིས་འགྲོ་བ་ཀུན་གྱི་དོན་བསྒྲུབ།",
+      "transliteration": "bdag gis 'gro ba kun gyi don bsgrub",
+      "english": "I ___ the benefit of all beings.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Future (མ་འོངས་པ) — shall accomplish",
+          "transliteration": "bsgrub (with b- prefix, no -s) is the future stem",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Past (འདས་པ) — accomplished",
+          "transliteration": "past would be bsgrubs (with -s suffix)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Present (ད་ལྟ་བ) — accomplishes",
+          "transliteration": "present would be sgrub (no b- prefix)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Imperative (སྐུལ་ཚིག) — accomplish!",
+          "transliteration": "imperative would be sgrubs",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "correctFeedback": "Well done! You can distinguish verb stems in classical Buddhist texts.",
+  "incorrectFeedback": "Review the stem patterns: present has no prefix, past adds བ- and/or -ས, future adds བ- (no -ས), imperative drops བ- and adds -ས."
+}

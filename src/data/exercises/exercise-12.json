@@ -1,0 +1,30 @@
+{
+  "id": "exercise-12",
+  "lessonId": "lesson-3",
+  "type": "translation",
+  "title": "Read Classical Passages with Verb Forms",
+  "difficulty": "beginner",
+  "instruction": "Translate these passages from classical Buddhist texts. Identify the verb stems and their tenses to understand the meaning.",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "From the Heart Sutra",
+      "tibetan": "སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་སྤྱད་པའི་ཚེ། ཕུང་པོ་ལྔ་པོ་དེ་དག་སྟོང་པར་བལྟས་སོ།",
+      "transliteration": "spyan ras gzigs dbang phyug gis shes rab kyi pha rol tu phyin pa zab mo spyad pa'i tshe / phung po lnga po de dag stong par bltas so",
+      "questionPrompt": "Translate this opening passage of the Heart Sutra. Identify the two past-tense verbs.",
+      "correctAnswer": "When Noble Avalokiteshvara was practicing the profound Perfection of Wisdom, he saw that the five aggregates are empty.",
+      "analysis": "Two past stems: སྤྱད (practiced — past of སྤྱོད) and བལྟས (saw — past of བལྟ). སྤྱད་པའི་ཚེ means 'at the time of practicing'. བལྟས་སོ has the sentence-final particle སོ. Subject: སྤྱན་རས་གཟིགས་དབང་ཕྱུག (Noble Avalokiteshvara)."
+    },
+    {
+      "id": "q2",
+      "title": "From Samantabhadra's Aspiration Prayer",
+      "tibetan": "བདག་གིས་འགྲོ་བ་ཀུན་གྱི་དོན་དུ་དགེ་བ་ཐམས་ཅད་བྱང་ཆུབ་ཏུ་བསྔོ།",
+      "transliteration": "bdag gis 'gro ba kun gyi don du dge ba thams cad byang chub tu bsngo",
+      "questionPrompt": "Translate this dedication verse. What tense is the verb and why?",
+      "correctAnswer": "I shall dedicate all virtue toward enlightenment for the benefit of all beings.",
+      "analysis": "བསྔོ is the future stem of སྔོ (to dedicate) — expressing aspiration. Key particles: གྱི (genitive — 'of'), དོན་དུ (for the purpose of), ཏུ (terminative — 'toward'). This verse combines case particles from Lesson 2 with the future tense from Lesson 3."
+    }
+  ],
+  "correctFeedback": "Excellent comprehension! You understand verb tenses in classical Buddhist passages.",
+  "incorrectFeedback": "Review the passage carefully. Look for the verb at the end and identify its stem to determine the tense."
+}

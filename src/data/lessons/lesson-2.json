@@ -1,0 +1,320 @@
+{
+  "id": "lesson-2",
+  "title": "Case Particles",
+  "titleTibetan": "གི་ཚིག་གྲོགས།",
+  "level": "beginner",
+  "category": "grammar",
+  "sections": [
+    {
+      "type": "introduction",
+      "title": "Case Particles in Classical Tibetan",
+      "content": "Case particles are postpositions that follow nouns to indicate their grammatical role in a sentence. Unlike English prepositions (of, to, from, in) that come before nouns, Tibetan case particles are attached after the noun. Mastering these particles is essential for reading sutras and commentaries, as they tell you the relationships between words — who did what, to whom, from where, and with what.",
+      "contentTibetan": "གི་ཚིག་གྲོགས་ནི་མིང་ཚིག་གི་རྗེས་སུ་འཇུག་པ་ཞིག་ཡིན། འདི་དག་གིས་ཚིག་གྲུབ་ནང་གི་མིང་ཚིག་གི་ལས་ཀ་མཚོན།"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Key Terms for Case Particles",
+      "words": [
+        {
+          "id": "vocab-1",
+          "tibetan": "བསྟན་པ",
+          "transliteration": "bstan pa",
+          "english": "teaching, doctrine, dharma tradition",
+          "example": {
+            "tibetan": "སངས་རྒྱས་ཀྱི་བསྟན་པ།",
+            "transliteration": "sangs rgyas kyi bstan pa",
+            "english": "The teaching of the Buddha.",
+            "literalTranslation": "Buddha's teaching",
+            "note": "ཀྱི is the genitive particle linking སངས་རྒྱས to བསྟན་པ"
+          }
+        },
+        {
+          "id": "vocab-2",
+          "tibetan": "དཀོན་མཆོག་གསུམ",
+          "transliteration": "dkon mchog gsum",
+          "english": "Three Jewels (Buddha, Dharma, Sangha)",
+          "example": {
+            "tibetan": "དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མཆི།",
+            "transliteration": "dkon mchog gsum la skyabs su mchi",
+            "english": "I go for refuge to the Three Jewels.",
+            "literalTranslation": "Three-Jewels to refuge-as go",
+            "note": "ལ marks the destination/recipient of the action"
+          }
+        },
+        {
+          "id": "vocab-3",
+          "tibetan": "སྐྱབས",
+          "transliteration": "skyabs",
+          "english": "refuge, protection",
+          "example": {
+            "tibetan": "བླ་མ་ལ་སྐྱབས་སུ་མཆི།",
+            "transliteration": "bla ma la skyabs su mchi",
+            "english": "I go for refuge to the lama.",
+            "literalTranslation": "Lama to refuge-as go",
+            "note": "སྐྱབས་སུ uses the terminative particle སུ to mean 'as refuge'"
+          }
+        },
+        {
+          "id": "vocab-4",
+          "tibetan": "འཁོར་བ",
+          "transliteration": "'khor ba",
+          "english": "samsara, cyclic existence",
+          "example": {
+            "tibetan": "འཁོར་བ་ནས་ཐར་བར་བྱ།",
+            "transliteration": "'khor ba nas thar bar bya",
+            "english": "One should be liberated from samsara.",
+            "literalTranslation": "Samsara from liberated should-be",
+            "note": "ནས is the ablative particle meaning 'from'"
+          }
+        },
+        {
+          "id": "vocab-5",
+          "tibetan": "ཐར་པ",
+          "transliteration": "thar pa",
+          "english": "liberation, moksha",
+          "example": {
+            "tibetan": "ཐར་པའི་ལམ།",
+            "transliteration": "thar pa'i lam",
+            "english": "The path of liberation.",
+            "literalTranslation": "Liberation's path",
+            "note": "འི is the genitive particle after vowel-ending words"
+          }
+        },
+        {
+          "id": "vocab-6",
+          "tibetan": "མྱ་ངན་ལས་འདས་པ",
+          "transliteration": "mya ngan las 'das pa",
+          "english": "nirvana (beyond suffering)",
+          "example": {
+            "tibetan": "སྡུག་བསྔལ་ལས་འདས།",
+            "transliteration": "sdug bsngal las 'das",
+            "english": "Gone beyond suffering.",
+            "literalTranslation": "Suffering from passed-beyond",
+            "note": "ལས here means 'from, beyond' — ablative/comparative"
+          }
+        },
+        {
+          "id": "vocab-7",
+          "tibetan": "བྱང་ཆུབ",
+          "transliteration": "byang chub",
+          "english": "enlightenment, bodhi",
+          "example": {
+            "tibetan": "བྱང་ཆུབ་ཀྱི་སེམས།",
+            "transliteration": "byang chub kyi sems",
+            "english": "The mind of enlightenment (bodhicitta).",
+            "literalTranslation": "Enlightenment's mind",
+            "note": "ཀྱི is the genitive particle after བ"
+          }
+        },
+        {
+          "id": "vocab-8",
+          "tibetan": "ཐེག་པ",
+          "transliteration": "theg pa",
+          "english": "vehicle (as in Mahayana, Hinayana)",
+          "example": {
+            "tibetan": "ཐེག་པ་ཆེན་པོའི་ལམ་ན།",
+            "transliteration": "theg pa chen po'i lam na",
+            "english": "On the path of the Great Vehicle (Mahayana).",
+            "literalTranslation": "Vehicle great's path in",
+            "note": "ན is the locative particle meaning 'in, on'"
+          }
+        },
+        {
+          "id": "vocab-9",
+          "tibetan": "འཇིག་རྟེན",
+          "transliteration": "'jig rten",
+          "english": "world, worldly realm",
+          "example": {
+            "tibetan": "འཇིག་རྟེན་ན་སྡུག་བསྔལ་ཡོད།",
+            "transliteration": "'jig rten na sdug bsngal yod",
+            "english": "In the world, there is suffering.",
+            "literalTranslation": "World in suffering exists",
+            "note": "ན marks the location where something exists"
+          }
+        },
+        {
+          "id": "vocab-10",
+          "tibetan": "སེམས",
+          "transliteration": "sems",
+          "english": "mind, consciousness",
+          "example": {
+            "tibetan": "སེམས་ཀྱི་རང་བཞིན།",
+            "transliteration": "sems kyi rang bzhin",
+            "english": "The nature of mind.",
+            "literalTranslation": "Mind's own-nature",
+            "note": "ཀྱི is the genitive after སེམས (ends in ས)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Genitive Particles: གི / ཀྱི / གྱི / འི",
+      "rule": "Expressing possession and relationships between nouns",
+      "explanation": "The genitive particle means 'of' or possessive 's. It connects two nouns where the first modifies or possesses the second. The form depends on the final letter of the preceding word: གི after ད/བ/ས, ཀྱི after ག/བ with palatalization, གྱི after ད/བ with palatalization, and འི after vowel-ending words. In practice: use ཀྱི after ག/བ/ས, གི after ད/ན/མ/ར/ལ/ང, and འི after vowels.",
+      "examples": [
+        {
+          "tibetan": "སངས་རྒྱས་ཀྱི་བསྟན་པ།",
+          "transliteration": "sangs rgyas kyi bstan pa",
+          "english": "The teaching of the Buddha.",
+          "breakdown": [
+            { "word": "སངས་རྒྱས", "meaning": "Buddha", "role": "possessor" },
+            { "word": "ཀྱི", "meaning": "of (genitive)", "role": "case particle — after ས" },
+            { "word": "བསྟན་པ", "meaning": "teaching", "role": "possessed" }
+          ],
+          "note": "This pattern is ubiquitous in sutras: X ཀྱི Y = 'the Y of X'."
+        },
+        {
+          "tibetan": "ཐར་པའི་ལམ།",
+          "transliteration": "thar pa'i lam",
+          "english": "The path of liberation.",
+          "breakdown": [
+            { "word": "ཐར་པ", "meaning": "liberation", "role": "possessor" },
+            { "word": "འི", "meaning": "of (genitive)", "role": "case particle — after vowel འ" },
+            { "word": "ལམ", "meaning": "path", "role": "possessed" }
+          ],
+          "note": "འི is the genitive form used after words ending in a vowel."
+        },
+        {
+          "tibetan": "སེམས་ཅན་གྱི་དོན།",
+          "transliteration": "sems can gyi don",
+          "english": "The benefit of sentient beings.",
+          "breakdown": [
+            { "word": "སེམས་ཅན", "meaning": "sentient beings", "role": "possessor" },
+            { "word": "གྱི", "meaning": "of (genitive)", "role": "case particle — after ན" },
+            { "word": "དོན", "meaning": "benefit, purpose", "role": "possessed" }
+          ],
+          "note": "This phrase appears frequently in Mahayana texts discussing bodhisattva motivation."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Dative/Locative (ལ / ན) and Ablative (ནས / ལས)",
+      "rule": "Indicating direction, location, source, and comparison",
+      "explanation": "The particle ལ marks the indirect object, direction, or purpose ('to, towards, for'). The particle ན indicates location or time ('in, at, when'). The ablative ནས means 'from' (source or starting point) and ལས can mean 'from' or 'than' (comparison). These particles are essential for understanding the relationships described in Buddhist philosophical texts.",
+      "examples": [
+        {
+          "tibetan": "སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ།",
+          "transliteration": "sangs rgyas la phyag 'tshal lo",
+          "english": "Homage to the Buddha.",
+          "breakdown": [
+            { "word": "སངས་རྒྱས", "meaning": "Buddha", "role": "recipient" },
+            { "word": "ལ", "meaning": "to (dative)", "role": "case particle" },
+            { "word": "ཕྱག་འཚལ", "meaning": "prostration, homage", "role": "verb phrase" },
+            { "word": "ལོ", "meaning": "(sentence-final particle)", "role": "punctuation" }
+          ],
+          "note": "This homage formula opens countless Buddhist texts and prayers."
+        },
+        {
+          "tibetan": "འཇིག་རྟེན་ན་སྡུག་བསྔལ་ཡོད།",
+          "transliteration": "'jig rten na sdug bsngal yod",
+          "english": "In the world, there is suffering.",
+          "breakdown": [
+            { "word": "འཇིག་རྟེན", "meaning": "world", "role": "location" },
+            { "word": "ན", "meaning": "in (locative)", "role": "case particle" },
+            { "word": "སྡུག་བསྔལ", "meaning": "suffering", "role": "subject" },
+            { "word": "ཡོད", "meaning": "exists", "role": "verb" }
+          ],
+          "note": "Reflects the First Noble Truth. ན marks where something exists."
+        },
+        {
+          "tibetan": "འཁོར་བ་ནས་ཐར་པ།",
+          "transliteration": "'khor ba nas thar pa",
+          "english": "Liberation from samsara.",
+          "breakdown": [
+            { "word": "འཁོར་བ", "meaning": "samsara", "role": "source" },
+            { "word": "ནས", "meaning": "from (ablative)", "role": "case particle" },
+            { "word": "ཐར་པ", "meaning": "liberation", "role": "noun" }
+          ],
+          "note": "ནས marks what one is freed from — a central Buddhist concept."
+        },
+        {
+          "tibetan": "སྡུག་བསྔལ་ལས་འདས།",
+          "transliteration": "sdug bsngal las 'das",
+          "english": "Gone beyond suffering.",
+          "breakdown": [
+            { "word": "སྡུག་བསྔལ", "meaning": "suffering", "role": "source/comparison" },
+            { "word": "ལས", "meaning": "from, beyond (ablative)", "role": "case particle" },
+            { "word": "འདས", "meaning": "gone beyond, passed", "role": "verb" }
+          ],
+          "note": "ལས with འདས forms the concept of nirvana — transcending suffering."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Associative (དང) and Terminative (སུ / རུ / ཏུ / དུ)",
+      "rule": "Connecting nouns and expressing purpose or transformation",
+      "explanation": "The particle དང connects nouns like 'and' or 'with'. It is extremely common in lists and paired concepts in sutras. The terminative particle (སུ/རུ/ཏུ/དུ) indicates purpose, direction, or transformation — 'as, into, for'. The form depends on the preceding consonant: སུ after ས/ད, རུ after ག/བ/ང/མ, ཏུ after certain consonants, and དུ as a general form.",
+      "examples": [
+        {
+          "tibetan": "སངས་རྒྱས་དང་ཆོས་དང་དགེ་འདུན།",
+          "transliteration": "sangs rgyas dang chos dang dge 'dun",
+          "english": "Buddha and Dharma and Sangha.",
+          "breakdown": [
+            { "word": "སངས་རྒྱས", "meaning": "Buddha", "role": "noun" },
+            { "word": "དང", "meaning": "and", "role": "associative particle" },
+            { "word": "ཆོས", "meaning": "Dharma", "role": "noun" },
+            { "word": "དང", "meaning": "and", "role": "associative particle" },
+            { "word": "དགེ་འདུན", "meaning": "Sangha", "role": "noun" }
+          ],
+          "note": "The Three Jewels listed with དང — the most common enumeration in Buddhist texts."
+        },
+        {
+          "tibetan": "སྐྱབས་སུ་མཆི།",
+          "transliteration": "skyabs su mchi",
+          "english": "I go for refuge / I take refuge.",
+          "breakdown": [
+            { "word": "སྐྱབས", "meaning": "refuge", "role": "purpose" },
+            { "word": "སུ", "meaning": "as, for (terminative)", "role": "case particle" },
+            { "word": "མཆི", "meaning": "go (honorific)", "role": "verb" }
+          ],
+          "note": "སྐྱབས་སུ་མཆི is the standard refuge formula found in all Buddhist traditions."
+        },
+        {
+          "tibetan": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད།",
+          "transliteration": "byang chub tu sems bskyed",
+          "english": "Generated the mind towards enlightenment.",
+          "breakdown": [
+            { "word": "བྱང་ཆུབ", "meaning": "enlightenment", "role": "goal" },
+            { "word": "ཏུ", "meaning": "towards, for (terminative)", "role": "case particle" },
+            { "word": "སེམས", "meaning": "mind", "role": "object" },
+            { "word": "བསྐྱེད", "meaning": "generated", "role": "verb" }
+          ],
+          "note": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད = generating bodhicitta, a cornerstone of Mahayana practice."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Practice Exercises",
+      "description": "Apply your understanding of case particles with exercises based on classical Buddhist texts",
+      "exerciseIds": ["exercise-5", "exercise-6", "exercise-7", "exercise-8"]
+    },
+    {
+      "type": "summary",
+      "title": "Lesson Summary",
+      "keyPoints": [
+        { "text": "Genitive (གི/ཀྱི/གྱི/འི) means 'of' — the form depends on the final letter of the preceding word", "topics": [0] },
+        { "text": "Dative ལ marks the recipient or direction ('to, towards')", "topics": [1] },
+        { "text": "Locative ན marks location or time ('in, at, when')", "topics": [1] },
+        { "text": "Ablative ནས means 'from' (source), ལས means 'from' or 'than' (comparison)", "topics": [1] },
+        { "text": "Associative དང connects nouns ('and, with')", "topics": [2] },
+        { "text": "Terminative (སུ/རུ/ཏུ/དུ) indicates purpose or transformation ('as, into, for')", "topics": [2] }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Case Particles Reference Chart",
+      "url": "/resources/lesson-2-case-particles.pdf"
+    },
+    {
+      "type": "text",
+      "title": "Refuge Prayer Analysis",
+      "url": "/resources/lesson-2-refuge-analysis.pdf"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "exercise-8",
+  "lessonId": "lesson-2",
+  "type": "translation",
+  "title": "Read Classical Phrases with Case Particles",
+  "difficulty": "beginner",
+  "instruction": "Translate these phrases from classical Buddhist texts. Focus on how case particles reveal the meaning.",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "From the Refuge Formula",
+      "tibetan": "བདག་གིས་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མཆི།",
+      "transliteration": "bdag gis dkon mchog gsum la skyabs su mchi",
+      "questionPrompt": "Translate: བདག་གིས་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མཆི།",
+      "correctAnswer": "I take refuge in the Three Jewels.",
+      "analysis": "Three case particles work together: གིས (agentive — marks the subject), ལ (dative — 'to' the Three Jewels), སུ (terminative — 'as' refuge). Subject: བདག (I), Recipient: དཀོན་མཆོག་གསུམ (Three Jewels), Purpose: སྐྱབས (refuge)."
+    },
+    {
+      "id": "q2",
+      "title": "From the Four Immeasurables",
+      "tibetan": "སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག",
+      "transliteration": "sems can thams cad sdug bsngal dang sdug bsngal gyi rgyu dang bral bar gyur cig",
+      "questionPrompt": "Translate: སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག",
+      "correctAnswer": "May all sentient beings be free from suffering and the causes of suffering.",
+      "analysis": "Key particles: དང (associative — 'and' connecting suffering and its causes), གྱི (genitive — 'of' linking suffering to its causes). Subject: སེམས་ཅན་ཐམས་ཅད (all sentient beings), Object: སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ (suffering and causes of suffering)."
+    }
+  ],
+  "correctFeedback": "Excellent comprehension! You understand how case particles work together in classical Buddhist texts.",
+  "incorrectFeedback": "Review the passage carefully. Identify each case particle and the relationship it creates between words."
+}

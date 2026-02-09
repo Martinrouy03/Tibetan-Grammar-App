@@ -1,0 +1,177 @@
+{
+  "id": "exercise-7",
+  "lessonId": "lesson-2",
+  "type": "multipleChoice",
+  "title": "Identify the Case Particle",
+  "difficulty": "beginner",
+  "instruction": "Identify the case particle in each sentence and its grammatical function.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In the phrase ཐར་པའི་ལམ། (The path of liberation), what is the case particle?",
+      "questionTibetan": "ཐར་པའི་ལམ།",
+      "transliteration": "thar pa'i lam",
+      "english": "The path of liberation.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "འི — genitive (of)",
+          "transliteration": "'i — genitive particle after vowels",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ལ — dative (to)",
+          "transliteration": "la — dative particle",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "པ — nominalizer",
+          "transliteration": "pa — nominalizer suffix",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "No case particle present",
+          "transliteration": "None",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "In the phrase བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད། (Generated the mind towards enlightenment), what type of particle is ཏུ?",
+      "questionTibetan": "བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད།",
+      "transliteration": "byang chub tu sems bskyed",
+      "english": "Generated the mind towards enlightenment.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Terminative (towards, as, into)",
+          "transliteration": "terminative — indicating direction or purpose",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Genitive (of, possessive)",
+          "transliteration": "genitive — indicating possession",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Ablative (from)",
+          "transliteration": "ablative — indicating source",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Locative (in, at)",
+          "transliteration": "locative — indicating location",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "In the phrase སངས་རྒྱས་དང་ཆོས་དང་དགེ་འདུན། (Buddha and Dharma and Sangha), what is the function of དང?",
+      "questionTibetan": "སངས་རྒྱས་དང་ཆོས་དང་དགེ་འདུན།",
+      "transliteration": "sangs rgyas dang chos dang dge 'dun",
+      "english": "Buddha and Dharma and Sangha.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Associative — connecting nouns (and, with)",
+          "transliteration": "associative particle connecting items in a list",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Genitive — showing possession (of)",
+          "transliteration": "genitive particle showing ownership",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Dative — indicating direction (to)",
+          "transliteration": "dative particle showing direction",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Ablative — indicating source (from)",
+          "transliteration": "ablative particle showing origin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "In the sentence སྡུག་བསྔལ་ལས་འདས། (Gone beyond suffering), what does ལས indicate?",
+      "questionTibetan": "སྡུག་བསྔལ་ལས་འདས།",
+      "transliteration": "sdug bsngal las 'das",
+      "english": "Gone beyond suffering.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Ablative — from, beyond",
+          "transliteration": "las — ablative/comparative, indicating what is transcended",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Dative — to, towards",
+          "transliteration": "la — direction towards something",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Genitive — of, belonging to",
+          "transliteration": "genitive — showing possession",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Locative — in, at",
+          "transliteration": "locative — showing location",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "In the phrase སེམས་ཅན་གྱི་དོན། (The benefit of sentient beings), which genitive form is used and why?",
+      "questionTibetan": "སེམས་ཅན་གྱི་དོན།",
+      "transliteration": "sems can gyi don",
+      "english": "The benefit of sentient beings.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "གྱི — used after ན ending",
+          "transliteration": "gyi — genitive form after the letter ན",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "གི — used after vowel endings",
+          "transliteration": "gi — genitive form after vowels",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ཀྱི — used after ས ending",
+          "transliteration": "kyi — genitive form after ས",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "འི — used after ག ending",
+          "transliteration": "'i — genitive form after ག",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "correctFeedback": "Well done! You can identify case particles and their functions in classical texts.",
+  "incorrectFeedback": "Review the different case particle types: genitive (of), dative (to), locative (in), ablative (from), associative (and), terminative (as/into)."
+}

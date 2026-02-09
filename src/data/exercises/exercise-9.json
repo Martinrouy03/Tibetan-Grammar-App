@@ -1,0 +1,47 @@
+{
+  "id": "exercise-9",
+  "lessonId": "lesson-3",
+  "type": "translation",
+  "title": "Translate Verb Tenses",
+  "difficulty": "beginner",
+  "instruction": "Translate these sentences from classical Buddhist texts. Pay attention to the verb stem to determine the tense.",
+  "questions": [
+    {
+      "id": "q1",
+      "tibetan": "སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཕུང་པོ་ལྔ་སྟོང་པར་བལྟས།",
+      "transliteration": "spyan ras gzigs dbang phyug gis phung po lnga stong par bltas",
+      "correctAnswer": "Noble Avalokiteshvara saw the five aggregates as empty.",
+      "breakdown": {
+        "subject": "སྤྱན་རས་གཟིགས་དབང་ཕྱུག (Noble Avalokiteshvara)",
+        "object": "ཕུང་པོ་ལྔ (five aggregates)",
+        "verb": "བལྟས (saw — past stem of བལྟ)",
+        "source": "Heart Sutra"
+      }
+    },
+    {
+      "id": "q2",
+      "tibetan": "དགེ་བ་ཐམས་ཅད་བྱང་ཆུབ་ཏུ་བསྔོ།",
+      "transliteration": "dge ba thams cad byang chub tu bsngo",
+      "correctAnswer": "I shall dedicate all virtue toward enlightenment.",
+      "breakdown": {
+        "object": "དགེ་བ་ཐམས་ཅད (all virtue)",
+        "goal": "བྱང་ཆུབ་ཏུ (toward enlightenment)",
+        "verb": "བསྔོ (shall dedicate — future stem of སྔོ)",
+        "source": "Samantabhadra's Aspiration Prayer"
+      }
+    },
+    {
+      "id": "q3",
+      "tibetan": "སེམས་ལ་ལྟོས།",
+      "transliteration": "sems la ltos",
+      "correctAnswer": "Look at the mind!",
+      "breakdown": {
+        "object": "སེམས་ལ (at the mind)",
+        "verb": "ལྟོས (look! — imperative stem of བལྟ)",
+        "source": "Classic meditation instruction"
+      }
+    }
+  ],
+  "correctFeedback": "Excellent! You correctly identified the verb tenses from their stems.",
+  "incorrectFeedback": "Review the verb stems: past བལྟས (saw), future བསྔོ (shall dedicate), imperative ལྟོས (look!)."
+}

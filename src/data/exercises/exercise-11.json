@@ -1,0 +1,182 @@
+{
+  "id": "exercise-11",
+  "lessonId": "lesson-3",
+  "type": "multipleChoice",
+  "title": "Choose the Correct Verb Stem",
+  "difficulty": "beginner",
+  "instruction": "Select the correct verb form to complete each sentence from classical Buddhist texts.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Complete with a PAST verb: རྒྱལ་སྲས་ཀྱིས་བདག་ཉིད་གཞན་དང ___ (The bodhisattva exchanged self for others.) [37 Practices]",
+      "questionTibetan": "རྒྱལ་སྲས་ཀྱིས་བདག་ཉིད་གཞན་དང ___",
+      "transliteration": "rgyal sras kyis bdag nyid gzhan dang ___",
+      "english": "The bodhisattva exchanged self for others.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "བརྗེས",
+          "transliteration": "brjes (past — exchanged)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "བརྗེ",
+          "transliteration": "brje (present/future — exchanges/will exchange)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "རྗེས",
+          "transliteration": "rjes (imperative — exchange!)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "རྗེ",
+          "transliteration": "rje (not a standard verb form)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The past stem typically has a བ- prefix and -ས suffix."
+    },
+    {
+      "id": "q2",
+      "question": "Complete with a FUTURE verb: དགེ་བ་ཐམས་ཅད་བྱང་ཆུབ་ཏུ ___ (All virtue shall be dedicated toward enlightenment.) [Samantabhadra's Prayer]",
+      "questionTibetan": "དགེ་བ་ཐམས་ཅད་བྱང་ཆུབ་ཏུ ___",
+      "transliteration": "dge ba thams cad byang chub tu ___",
+      "english": "All virtue shall be dedicated toward enlightenment.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "བསྔོ",
+          "transliteration": "bsngo (future — shall dedicate)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "སྔོ",
+          "transliteration": "sngo (present — dedicates)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བསྔོས",
+          "transliteration": "bsngos (past — dedicated)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "སྔོས",
+          "transliteration": "sngos (imperative — dedicate!)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The future stem has the བ- prefix but no -ས suffix."
+    },
+    {
+      "id": "q3",
+      "question": "Complete with an IMPERATIVE verb: སེམས་ལ ___ (Look at the mind!) [Meditation instruction]",
+      "questionTibetan": "སེམས་ལ ___",
+      "transliteration": "sems la ___",
+      "english": "Look at the mind!",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "ལྟོས",
+          "transliteration": "ltos (imperative of blta — look!)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "བལྟ",
+          "transliteration": "blta (present — looks)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བལྟས",
+          "transliteration": "bltas (past — looked)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "བལྟོ",
+          "transliteration": "blto (not a standard form)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The imperative drops the བ- prefix. Compare: བལྟ (present) → ལྟོས (imperative)."
+    },
+    {
+      "id": "q4",
+      "question": "Complete with a PRESENT verb: རྒྱལ་སྲས་ཀྱིས་སེམས་ཅན་གྱི་དོན ___ (The bodhisattva works for sentient beings' benefit.) [37 Practices]",
+      "questionTibetan": "རྒྱལ་སྲས་ཀྱིས་སེམས་ཅན་གྱི་དོན ___",
+      "transliteration": "rgyal sras kyis sems can gyi don ___",
+      "english": "The bodhisattva works for sentient beings' benefit.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "བྱེད",
+          "transliteration": "byed (present — does, works)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "བྱས",
+          "transliteration": "byas (past — did)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བྱ",
+          "transliteration": "bya (future — will do)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "བྱོས",
+          "transliteration": "byos (imperative — do!)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The present stem is the base form without modifications."
+    },
+    {
+      "id": "q5",
+      "question": "Complete with a PAST verb: དགེ་སློང་གིས་ཤེས་རབ་སྙིང་པོ ___ (The monk recited the Heart Sutra.) [Heart Sutra]",
+      "questionTibetan": "དགེ་སློང་གིས་ཤེས་རབ་སྙིང་པོ ___",
+      "transliteration": "dge slong gis shes rab snying po ___",
+      "english": "The monk recited the Heart Sutra.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "བཀླགས",
+          "transliteration": "bklags (past — read/recited)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "བཀླག",
+          "transliteration": "bklag (present/future — reads/will read)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ཀློགས",
+          "transliteration": "klogs (imperative — read!)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "ཀློག",
+          "transliteration": "klog (not a standard stem)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The past stem of བཀླག keeps the བ- prefix and adds the -ས suffix."
+    }
+  ],
+  "correctFeedback": "Correct! You know which verb stem to use for each tense.",
+  "incorrectFeedback": "Review the four stems: present (base), past (བ- prefix + -ས suffix), future (བ- prefix), imperative (drop བ-, add -ས)."
+}

@@ -1,0 +1,111 @@
+{
+  "id": "exercise-2",
+  "lessonId": "lesson-1",
+  "type": "multipleChoice",
+  "title": "Arrange in Correct Order",
+  "difficulty": "beginner",
+  "instruction": "Choose the correct SOV word order for each sentence.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Arrange these words to mean: 'The lama taught the dharma.'",
+      "questionTibetan": "Given words: བསྟན། ཆོས བླ་མས",
+      "english": "The lama taught the dharma.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "ཆོས་བླ་མས་བསྟན།",
+          "transliteration": "chos bla mas bstan",
+          "isCorrect": false
+        },
+        {
+          "id": "option-b",
+          "text": "བསྟན་བླ་མས་ཆོས།",
+          "transliteration": "bstan bla mas chos",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བླ་མས་ཆོས་བསྟན།",
+          "transliteration": "bla mas chos bstan",
+          "isCorrect": true
+        },
+        {
+          "id": "option-d",
+          "text": "བླ་མས་བསྟན་ཆོས།",
+          "transliteration": "bla mas bstan chos",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Remember: Subject (with ས) + Object + Verb"
+    },
+    {
+      "id": "q2",
+      "question": "Arrange these words to mean: 'I meditate on compassion.'",
+      "questionTibetan": "Given words: སྙིང་རྗེ སྒོམ། བདག་གིས",
+      "english": "I meditate on compassion.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "སྒོམ་བདག་གིས་སྙིང་རྗེ།",
+          "transliteration": "sgom bdag gis snying rje",
+          "isCorrect": false
+        },
+        {
+          "id": "option-b",
+          "text": "སྙིང་རྗེ་བདག་གིས་སྒོམ།",
+          "transliteration": "snying rje bdag gis sgom",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "སྙིང་རྗེ་སྒོམ་བདག་གིས།",
+          "transliteration": "snying rje sgom bdag gis",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "བདག་གིས་སྙིང་རྗེ་སྒོམ།",
+          "transliteration": "bdag gis snying rje sgom",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Subject with agentive particle comes first"
+    },
+    {
+      "id": "q3",
+      "question": "Arrange these words to mean: 'The disciple offers worship to the Three Jewels.'",
+      "questionTibetan": "Given words: འབུལ། མཆོད་པ ལ དཀོན་མཆོག སློབ་མས",
+      "english": "The disciple offers worship to the Three Jewels.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "དཀོན་མཆོག་ལ་སློབ་མས་མཆོད་པ་འབུལ།",
+          "transliteration": "dkon mchog la slob mas mchod pa 'bul",
+          "isCorrect": false
+        },
+        {
+          "id": "option-b",
+          "text": "སློབ་མས་དཀོན་མཆོག་ལ་མཆོད་པ་འབུལ།",
+          "transliteration": "slob mas dkon mchog la mchod pa 'bul",
+          "isCorrect": true
+        },
+        {
+          "id": "option-c",
+          "text": "མཆོད་པ་སློབ་མས་དཀོན་མཆོག་ལ་འབུལ།",
+          "transliteration": "mchod pa slob mas dkon mchog la 'bul",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "སློབ་མས་འབུལ་དཀོན་མཆོག་ལ་མཆོད་པ།",
+          "transliteration": "slob mas 'bul dkon mchog la mchod pa",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Verb always comes last; དཀོན་མཆོག་ལ needs ལ particle"
+    }
+  ],
+  "correctFeedback": "Correct! You understand the SOV word order.",
+  "incorrectFeedback": "Not quite. Review the SOV pattern: Subject + Object + Verb."
+}

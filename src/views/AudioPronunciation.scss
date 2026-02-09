@@ -1,0 +1,45 @@
+.audio-pronunciation {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+
+  .audio-btn {
+    background-color: #8B0000;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+
+    &:hover {
+      background-color: #a01010;
+      transform: scale(1.1);
+    }
+
+    &:active {
+      transform: scale(0.95);
+    }
+
+    &.play-btn {
+      font-size: 1.1rem;
+    }
+
+    &.speed-btn {
+      border-radius: 20px;
+      width: auto;
+      padding: 0 12px;
+      gap: 6px;
+
+      .speed-label {
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+    }
+  }
+}

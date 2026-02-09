@@ -1,0 +1,30 @@
+{
+  "id": "exercise-4",
+  "lessonId": "lesson-1",
+  "type": "translation",
+  "title": "Read Classical Passages",
+  "difficulty": "beginner",
+  "instruction": "Read these short passages from classical texts and translate the key phrase, demonstrating your understanding of the SOV structure.",
+  "questions": [
+    {
+      "id": "q1",
+      "title": "From a Refuge Prayer",
+      "tibetan": "བདག་གིས་སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་ལ། །བྱང་ཆུབ་བར་དུ་སྐྱབས་སུ་མཆི།",
+      "transliteration": "bdag gis sangs rgyas chos dang dge 'dun la / byang chub bar du skyabs su mchi",
+      "questionPrompt": "Translate the main clause: བདག་གིས་སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་ལ་སྐྱབས་སུ་མཆི།",
+      "correctAnswer": "I take refuge in the Buddha, Dharma, and Sangha.",
+      "analysis": "Notice the SOV structure: བདག་གིས (I-by) is the subject, སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་ལ (to Buddha, Dharma and Sangha) is the object with ལ particle, སྐྱབས་སུ་མཆི (go for refuge) is the verb phrase."
+    },
+    {
+      "id": "q2",
+      "title": "From Bodhisattva Vows",
+      "tibetan": "སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག",
+      "transliteration": "sems can thams cad bde ba dang bde ba'i rgyu dang ldan par gyur cig",
+      "questionPrompt": "What is being wished for all sentient beings? Translate: སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག",
+      "correctAnswer": "May all sentient beings be endowed with happiness and the causes of happiness.",
+      "analysis": "Subject: སེམས་ཅན་ཐམས་ཅད (all sentient beings), Object: བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང (with happiness and causes of happiness), Verb: ལྡན་པར་གྱུར (become endowed)"
+    }
+  ],
+  "correctFeedback": "Excellent comprehension! You understand the classical text structure.",
+  "incorrectFeedback": "Review the passage carefully. Pay attention to the case particles and verb placement."
+}

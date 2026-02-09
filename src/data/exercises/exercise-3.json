@@ -1,0 +1,177 @@
+{
+  "id": "exercise-3",
+  "lessonId": "lesson-1",
+  "type": "multipleChoice",
+  "title": "Identify Sentence Components",
+  "difficulty": "beginner",
+  "instruction": "Identify the Subject, Object, and Verb in each sentence.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In the sentence མཁས་པས་གསུང་རབ་བསྒྱུར། (The scholar translated the scripture), what is the SUBJECT?",
+      "questionTibetan": "མཁས་པས་གསུང་རབ་བསྒྱུར།",
+      "transliteration": "mkhas pas gsung rab bsgyur",
+      "english": "The scholar translated the scripture.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མཁས་པ",
+          "transliteration": "mkhas pa (scholar)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "གསུང་རབ",
+          "transliteration": "gsung rab (scripture)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བསྒྱུར",
+          "transliteration": "bsgyur (translated)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "ས",
+          "transliteration": "s (agentive particle)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "In the sentence མཁས་པས་གསུང་རབ་བསྒྱུར། what is the OBJECT?",
+      "questionTibetan": "མཁས་པས་གསུང་རབ་བསྒྱུར།",
+      "transliteration": "mkhas pas gsung rab bsgyur",
+      "english": "The scholar translated the scripture.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "གསུང་རབ",
+          "transliteration": "gsung rab (scripture)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མཁས་པ",
+          "transliteration": "mkhas pa (scholar)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བསྒྱུར",
+          "transliteration": "bsgyur (translated)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "ས",
+          "transliteration": "s (agentive particle)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "In the sentence མཁས་པས་གསུང་རབ་བསྒྱུར། what is the VERB?",
+      "questionTibetan": "མཁས་པས་གསུང་རབ་བསྒྱུར།",
+      "transliteration": "mkhas pas gsung rab bsgyur",
+      "english": "The scholar translated the scripture.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "བསྒྱུར",
+          "transliteration": "bsgyur (translated)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མཁས་པ",
+          "transliteration": "mkhas pa (scholar)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "གསུང་རབ",
+          "transliteration": "gsung rab (scripture)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "ས",
+          "transliteration": "s (agentive particle)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "In the sentence དགེ་སློང་གིས་ཏིང་ངེ་འཛིན་བསྒོམས། (The monk practiced meditation), what is the AGENTIVE PARTICLE?",
+      "questionTibetan": "དགེ་སློང་གིས་ཏིང་ངེ་འཛིན་བསྒོམས།",
+      "transliteration": "dge slong gis ting nge 'dzin bsgoms",
+      "english": "The monk practiced meditation.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "གིས",
+          "transliteration": "gis (agentive particle)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "དགེ་སློང",
+          "transliteration": "dge slong (monk)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ཏིང་ངེ་འཛིན",
+          "transliteration": "ting nge 'dzin (samadhi)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "བསྒོམས",
+          "transliteration": "bsgoms (practiced)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "In the sentence དགེ་སློང་གིས་ཏིང་ངེ་འཛིན་བསྒོམས། what is the SUBJECT?",
+      "questionTibetan": "དགེ་སློང་གིས་ཏིང་ངེ་འཛིན་བསྒོམས།",
+      "transliteration": "dge slong gis ting nge 'dzin bsgoms",
+      "english": "The monk practiced meditation.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "དགེ་སློང",
+          "transliteration": "dge slong (monk, bhikshu)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ཏིང་ངེ་འཛིན",
+          "transliteration": "ting nge 'dzin (samadhi, meditative concentration)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "བསྒོམས",
+          "transliteration": "bsgoms (practiced)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "གིས",
+          "transliteration": "gis (agentive particle)",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "correctFeedback": "Correct! You can identify sentence components well.",
+  "incorrectFeedback": "Review the roles: Subject (doer) + Object (what's acted upon) + Verb (action)."
+}

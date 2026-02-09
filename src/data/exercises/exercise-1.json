@@ -1,0 +1,46 @@
+{
+  "id": "exercise-1",
+  "lessonId": "lesson-1",
+  "type": "translation",
+  "title": "Translate to English",
+  "difficulty": "beginner",
+  "instruction": "Translate these classical Tibetan sentences into English, identifying the Subject-Object-Verb structure.",
+  "questions": [
+    {
+      "id": "q1",
+      "tibetan": "སློབ་དཔོན་གྱིས་མདོ་བཀླགས།",
+      "transliteration": "slob dpon gyis mdo bklags",
+      "correctAnswer": "The master read the sutra.",
+      "breakdown": {
+        "subject": "སློབ་དཔོན (master)",
+        "object": "མདོ (sutra)",
+        "verb": "བཀླགས (read, past)"
+      }
+    },
+    {
+      "id": "q2",
+      "tibetan": "བྱང་ཆུབ་སེམས་དཔས་སེམས་ཅན་ལ་ཕན་པ་བཏང༌།",
+      "transliteration": "byang chub sems dpas sems can la phan pa btang",
+      "correctAnswer": "The bodhisattva gave benefit to sentient beings.",
+      "breakdown": {
+        "subject": "བྱང་ཆུབ་སེམས་དཔ (bodhisattva)",
+        "indirectObject": "སེམས་ཅན་ལ (to sentient beings)",
+        "object": "ཕན་པ (benefit)",
+        "verb": "བཏང༌ (gave)"
+      }
+    },
+    {
+      "id": "q3",
+      "tibetan": "རྒྱལ་བས་བདེན་པ་གསུངས།",
+      "transliteration": "rgyal bas bden pa gsungs",
+      "correctAnswer": "The Victorious One spoke the truth.",
+      "breakdown": {
+        "subject": "རྒྱལ་བ (Victorious One, epithet for Buddha)",
+        "object": "བདེན་པ (truth)",
+        "verb": "གསུངས (spoke, honorific)"
+      }
+    }
+  ],
+  "correctFeedback": "Excellent work! Your translation correctly identifies the SOV structure.",
+  "incorrectFeedback": "Review the SOV structure. Remember: Subject + Object + Verb."
+}

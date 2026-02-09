@@ -1,0 +1,89 @@
+.lesson-content {
+  .section {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+
+    .section-title {
+      font-size: 1.8rem;
+      color: #8B0000;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+
+    .section-content {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #333;
+      margin-bottom: 15px;
+    }
+
+    .section-content-tibetan {
+      font-size: 1.3rem;
+      line-height: 2;
+      color: #8B0000;
+    }
+
+    .section-description {
+      font-size: 1rem;
+      color: #666;
+      margin-bottom: 20px;
+    }
+  }
+
+  .vocabulary-section {
+    .vocabulary-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+  }
+
+  .practice-section {
+    .practice-info {
+      background: #f8f9fa;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+      color: #666;
+      font-style: italic;
+    }
+  }
+
+  .summary-section {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e8f5e9 100%);
+
+    .key-points {
+      list-style: none;
+      padding: 0;
+
+      .key-point {
+        padding: 12px 20px;
+        background: white;
+        margin-bottom: 10px;
+        border-radius: 8px;
+        border-left: 4px solid #4CAF50;
+        font-size: 1rem;
+        line-height: 1.6;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .lesson-content {
+    .section {
+      padding: 20px;
+    }
+
+    .vocabulary-section .vocabulary-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+}

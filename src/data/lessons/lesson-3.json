@@ -1,0 +1,368 @@
+{
+  "id": "lesson-3",
+  "title": "Verb Tenses and Stems",
+  "titleTibetan": "བྱ་ཚིག་གི་དུས།",
+  "level": "beginner",
+  "category": "grammar",
+  "sections": [
+    {
+      "type": "introduction",
+      "title": "The Four Verb Stems of Classical Tibetan",
+      "content": "Classical Tibetan verbs can have up to four distinct stems: present, past, future, and imperative. Unlike English where tense is marked with auxiliary words and endings (-ed, -ing, will), Tibetan changes the verb root itself through prefixes and suffixes. These four stems are fundamental to reading Buddhist texts: narrative sutras use past stems to describe the Buddha's deeds, prayers use future stems for aspirations, and meditation manuals use imperatives for instructions. Additionally, two auxiliary verbs — ཡིན (to be) and ཡོད (to exist/have) — play a central role in forming complete sentences. In this lesson, we will study examples drawn from the Heart Sutra, the 37 Practices of Bodhisattvas, and the Aspiration Prayer of Samantabhadra.",
+      "contentTibetan": "བོད་ཀྱི་སྐད་ཡིག་ལ་བྱ་ཚིག་གི་རྐང་པ་བཞི་ཡོད་དེ། ད་ལྟ་བ། འདས་པ། མ་འོངས་པ། སྐུལ་ཚིག་བཅས་སོ།"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Essential Verbs and Their Stems",
+      "words": [
+        {
+          "id": "vocab-1",
+          "tibetan": "བྱེད / བྱས / བྱ / བྱོས",
+          "transliteration": "byed / byas / bya / byos",
+          "english": "to do, to make (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "ཉན་བསམ་སྒོམ་བྱེད་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན།",
+            "transliteration": "nyan bsam sgom byed pa rgyal sras lag len yin",
+            "english": "Listening, reflecting, and meditating is the practice of bodhisattvas.",
+            "literalTranslation": "Listening-reflecting-meditating doing bodhisattva practice is",
+            "note": "From the 37 Practices of Bodhisattvas, verse 1. བྱེད is the present stem."
+          }
+        },
+        {
+          "id": "vocab-2",
+          "tibetan": "སྟོན / བསྟན / བསྟན / སྟོན",
+          "transliteration": "ston / bstan / bstan / ston",
+          "english": "to teach, to show (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པས་སྟོང་ཉིད་སྟོན།",
+            "transliteration": "shes rab kyi pha rol tu phyin pas stong nyid ston",
+            "english": "The Perfection of Wisdom shows emptiness.",
+            "literalTranslation": "Wisdom's far-shore-gone-to by emptiness shows",
+            "note": "In the spirit of the Heart Sutra. སྟོན is the present stem — showing as a general truth."
+          }
+        },
+        {
+          "id": "vocab-3",
+          "tibetan": "སྒོམ / བསྒོམས / བསྒོམ / སྒོམས",
+          "transliteration": "sgom / bsgoms / bsgom / sgoms",
+          "english": "to meditate, to cultivate (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "རྒྱལ་སྲས་ཀྱིས་བདག་མེད་བསྒོམས།",
+            "transliteration": "rgyal sras kyis bdag med bsgoms",
+            "english": "The bodhisattva meditated on selflessness.",
+            "literalTranslation": "Bodhisattva-by selflessness meditated",
+            "note": "From the 37 Practices. བསྒོམས is the past stem — the meditation was completed."
+          }
+        },
+        {
+          "id": "vocab-4",
+          "tibetan": "འགྲོ / ཕྱིན / འགྲོ / སོང",
+          "transliteration": "'gro / phyin / 'gro / song",
+          "english": "to go (pres. / past / fut. / imp.) — irregular",
+          "example": {
+            "tibetan": "སེམས་ཅན་འཁོར་བའི་མཚོ་ན་འགྲོ།",
+            "transliteration": "sems can 'khor ba'i mtsho na 'gro",
+            "english": "Sentient beings wander in the ocean of samsara.",
+            "literalTranslation": "Sentient-beings samsara's ocean in go",
+            "note": "From the 37 Practices, verse 1. འགྲོ is the present stem of this irregular verb."
+          }
+        },
+        {
+          "id": "vocab-5",
+          "tibetan": "སྦྱིན / བྱིན / སྦྱིན / བྱིན",
+          "transliteration": "sbyin / byin / sbyin / byin",
+          "english": "to give (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "ཀུན་ཏུ་བཟང་པོས་མཆོད་པ་བླ་ན་མེད་པ་བྱིན།",
+            "transliteration": "kun tu bzang pos mchod pa bla na med pa byin",
+            "english": "Samantabhadra gave unsurpassed offerings.",
+            "literalTranslation": "Samantabhadra-by offerings unsurpassed gave",
+            "note": "From Samantabhadra's Aspiration Prayer. བྱིན is the past stem of སྦྱིན."
+          }
+        },
+        {
+          "id": "vocab-6",
+          "tibetan": "བསྲུང / བསྲུངས / བསྲུང / སྲུངས",
+          "transliteration": "bsrung / bsrungs / bsrung / srungs",
+          "english": "to protect, to guard (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "རྒྱལ་སྲས་ཀྱིས་ཚུལ་ཁྲིམས་བསྲུངས།",
+            "transliteration": "rgyal sras kyis tshul khrims bsrungs",
+            "english": "The bodhisattva guarded moral discipline.",
+            "literalTranslation": "Bodhisattva-by moral-discipline protected",
+            "note": "From the 37 Practices. བསྲུངས is the past stem — discipline was kept."
+          }
+        },
+        {
+          "id": "vocab-7",
+          "tibetan": "སྐྱེ / སྐྱེས / སྐྱེ / སྐྱེས",
+          "transliteration": "skye / skyes / skye / skyes",
+          "english": "to be born, to arise (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "གཞན་ལ་སྙིང་རྗེ་ཆེན་པོ་སྐྱེས།",
+            "transliteration": "gzhan la snying rje chen po skyes",
+            "english": "Great compassion arose for others.",
+            "literalTranslation": "Others toward compassion great arose",
+            "note": "From the 37 Practices. སྐྱེས is the past stem — compassion has arisen."
+          }
+        },
+        {
+          "id": "vocab-8",
+          "tibetan": "བཀླག / བཀླགས / བཀླག / ཀློགས",
+          "transliteration": "bklag / bklags / bklag / klogs",
+          "english": "to read, to recite (pres. / past / fut. / imp.)",
+          "example": {
+            "tibetan": "དགེ་སློང་གིས་ཤེས་རབ་སྙིང་པོ་བཀླགས།",
+            "transliteration": "dge slong gis shes rab snying po bklags",
+            "english": "The monk recited the Heart Sutra.",
+            "literalTranslation": "Monk-by Wisdom Heart read(past)",
+            "note": "བཀླགས is the past stem of བཀླག — the recitation was completed."
+          }
+        },
+        {
+          "id": "vocab-9",
+          "tibetan": "ཡིན",
+          "transliteration": "yin",
+          "english": "to be (equative auxiliary: 'X is Y')",
+          "example": {
+            "tibetan": "འདི་ནི་རྒྱལ་སྲས་ཀྱི་ལག་ལེན་ཡིན།",
+            "transliteration": "'di ni rgyal sras kyi lag len yin",
+            "english": "This is the practice of bodhisattvas.",
+            "literalTranslation": "This (topic) bodhisattva's practice is",
+            "note": "The refrain of the 37 Practices. ཡིན identifies what something is."
+          }
+        },
+        {
+          "id": "vocab-10",
+          "tibetan": "ཡོད",
+          "transliteration": "yod",
+          "english": "to exist, to have (existential auxiliary)",
+          "example": {
+            "tibetan": "སེམས་ཅན་ཀུན་ལ་བདེ་བའི་རྒྱུ་ཡོད།",
+            "transliteration": "sems can kun la bde ba'i rgyu yod",
+            "english": "In all sentient beings, there are causes of happiness.",
+            "literalTranslation": "Sentient-beings all to happiness's causes exist",
+            "note": "From the Four Immeasurables. ཡོད expresses existence."
+          }
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Present Stem (ད་ལྟ་བ)",
+      "rule": "Expressing ongoing and habitual actions",
+      "explanation": "The present stem describes actions that are currently happening, habitual, or generally true. In Buddhist texts, it appears in descriptions of general truths and ongoing practices. The present stem is often the base form of the verb. It can be combined with the auxiliary ཡོད to emphasize continuity ('is doing'), or used alone for general statements.",
+      "examples": [
+        {
+          "tibetan": "རྒྱལ་སྲས་ཀྱིས་སེམས་ཅན་ཀུན་གྱི་དོན་བྱེད།",
+          "transliteration": "rgyal sras kyis sems can kun gyi don byed",
+          "english": "The bodhisattva works for the benefit of all sentient beings.",
+          "breakdown": [
+            { "word": "རྒྱལ་སྲས", "meaning": "bodhisattva (child of the victors)", "role": "subject" },
+            { "word": "ཀྱིས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "སེམས་ཅན་ཀུན", "meaning": "all sentient beings", "role": "possessor" },
+            { "word": "གྱི", "meaning": "of (genitive)", "role": "case particle" },
+            { "word": "དོན", "meaning": "benefit, purpose", "role": "object" },
+            { "word": "བྱེད", "meaning": "does, works", "role": "verb — present stem" }
+          ],
+          "note": "From the 37 Practices. བྱེད is the present stem of 'to do' — expressing the bodhisattva's ongoing activity."
+        },
+        {
+          "tibetan": "སྤྱན་རས་གཟིགས་ཀྱིས་འགྲོ་བ་ལ་ཐུགས་རྗེས་གཟིགས།",
+          "transliteration": "spyan ras gzigs kyis 'gro ba la thugs rjes gzigs",
+          "english": "Avalokiteshvara looks upon beings with compassion.",
+          "breakdown": [
+            { "word": "སྤྱན་རས་གཟིགས", "meaning": "Avalokiteshvara", "role": "subject" },
+            { "word": "ཀྱིས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "འགྲོ་བ", "meaning": "beings", "role": "object" },
+            { "word": "ལ", "meaning": "upon (dative)", "role": "case particle" },
+            { "word": "ཐུགས་རྗེ", "meaning": "compassion (honorific)", "role": "instrument" },
+            { "word": "ས", "meaning": "with (agentive)", "role": "case marker" },
+            { "word": "གཟིགས", "meaning": "looks (honorific)", "role": "verb — present stem (hon.)" }
+          ],
+          "note": "In the spirit of the Heart Sutra's opening. གཟིགས is the honorific present stem of བལྟ (to look)."
+        },
+        {
+          "tibetan": "སེམས་ཅན་འཁོར་བའི་མཚོ་ན་འགྲོ།",
+          "transliteration": "sems can 'khor ba'i mtsho na 'gro",
+          "english": "Sentient beings wander in the ocean of samsara.",
+          "breakdown": [
+            { "word": "སེམས་ཅན", "meaning": "sentient beings", "role": "subject" },
+            { "word": "འཁོར་བའི", "meaning": "of samsara (genitive)", "role": "possessor + particle" },
+            { "word": "མཚོ", "meaning": "ocean", "role": "location" },
+            { "word": "ན", "meaning": "in (locative)", "role": "case particle" },
+            { "word": "འགྲོ", "meaning": "go, wander", "role": "verb — present stem" }
+          ],
+          "note": "From the 37 Practices, verse 1. འགྲོ is irregular: past ཕྱིན, imperative སོང."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Past Stem (འདས་པ)",
+      "rule": "Expressing completed actions",
+      "explanation": "The past stem describes actions that have been completed. It is the most common stem in narrative sutras, which recount the Buddha's life and teachings. Past stems are typically formed by adding the prefix བ- and/or the suffix -ས to the root. For example: སྟོན → བསྟན (taught), སྒོམ → བསྒོམས (meditated), སྲུང → བསྲུངས (protected). Some verbs have irregular past stems, like འགྲོ → ཕྱིན (went).",
+      "examples": [
+        {
+          "tibetan": "སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཕུང་པོ་ལྔ་སྟོང་པར་བལྟས།",
+          "transliteration": "spyan ras gzigs dbang phyug gis phung po lnga stong par bltas",
+          "english": "Noble Avalokiteshvara saw the five aggregates as empty.",
+          "breakdown": [
+            { "word": "སྤྱན་རས་གཟིགས་དབང་ཕྱུག", "meaning": "Noble Avalokiteshvara", "role": "subject" },
+            { "word": "གིས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "ཕུང་པོ་ལྔ", "meaning": "five aggregates (skandhas)", "role": "object" },
+            { "word": "སྟོང་པར", "meaning": "as empty", "role": "complement" },
+            { "word": "བལྟས", "meaning": "saw, looked", "role": "verb — past stem" }
+          ],
+          "note": "From the Heart Sutra. བལྟས is the past stem of བལྟ (to look). The བ- prefix and -ས suffix both mark the past."
+        },
+        {
+          "tibetan": "ཀུན་ཏུ་བཟང་པོས་སྨོན་ལམ་བཏབ།",
+          "transliteration": "kun tu bzang pos smon lam btab",
+          "english": "Samantabhadra made aspiration prayers.",
+          "breakdown": [
+            { "word": "ཀུན་ཏུ་བཟང་པོ", "meaning": "Samantabhadra", "role": "subject" },
+            { "word": "ས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "སྨོན་ལམ", "meaning": "aspiration prayer", "role": "object" },
+            { "word": "བཏབ", "meaning": "made, set forth", "role": "verb — past stem" }
+          ],
+          "note": "From Samantabhadra's Aspiration Prayer. བཏབ is the past stem of འདེབས (to make/plant) — here meaning 'set forth' prayers."
+        },
+        {
+          "tibetan": "རྒྱལ་སྲས་ཀྱིས་བདག་ཉིད་གཞན་དང་བརྗེས།",
+          "transliteration": "rgyal sras kyis bdag nyid gzhan dang brjes",
+          "english": "The bodhisattva exchanged self for others.",
+          "breakdown": [
+            { "word": "རྒྱལ་སྲས", "meaning": "bodhisattva", "role": "subject" },
+            { "word": "ཀྱིས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "བདག་ཉིད", "meaning": "self", "role": "object" },
+            { "word": "གཞན", "meaning": "others", "role": "object" },
+            { "word": "དང", "meaning": "with (associative)", "role": "case particle" },
+            { "word": "བརྗེས", "meaning": "exchanged", "role": "verb — past stem" }
+          ],
+          "note": "From the 37 Practices, verse 11. བརྗེས is the past stem of བརྗེ (to exchange). This is the core Mahayana practice of tonglen."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Future Stem (མ་འོངས་པ)",
+      "rule": "Expressing intentions, aspirations, and actions to come",
+      "explanation": "The future stem describes actions that have not yet happened. It is very common in prayers, vows, and aspirational texts — expressing what one intends or wishes to do. In many verbs, the future stem resembles the present but with a བ- prefix: སྒོམ → བསྒོམ (will meditate), སྲུང → བསྲུང (will protect). Some verbs share the same form for present and future (འགྲོ), or past and future (བསྟན). The future is often used with particles like པར་བྱ (shall do) or བར་འགྱུར (will become).",
+      "examples": [
+        {
+          "tibetan": "བདག་གིས་འགྲོ་བ་ཀུན་གྱི་དོན་བསྒྲུབ།",
+          "transliteration": "bdag gis 'gro ba kun gyi don bsgrub",
+          "english": "I shall accomplish the benefit of all beings.",
+          "breakdown": [
+            { "word": "བདག", "meaning": "I", "role": "subject" },
+            { "word": "གིས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "འགྲོ་བ་ཀུན", "meaning": "all beings", "role": "possessor" },
+            { "word": "གྱི", "meaning": "of (genitive)", "role": "case particle" },
+            { "word": "དོན", "meaning": "benefit", "role": "object" },
+            { "word": "བསྒྲུབ", "meaning": "shall accomplish", "role": "verb — future stem" }
+          ],
+          "note": "From Samantabhadra's Aspiration Prayer. བསྒྲུབ is the future stem of སྒྲུབ (to accomplish)."
+        },
+        {
+          "tibetan": "དགེ་བ་ཐམས་ཅད་བྱང་ཆུབ་ཏུ་བསྔོ།",
+          "transliteration": "dge ba thams cad byang chub tu bsngo",
+          "english": "I shall dedicate all virtue toward enlightenment.",
+          "breakdown": [
+            { "word": "དགེ་བ་ཐམས་ཅད", "meaning": "all virtue", "role": "object" },
+            { "word": "བྱང་ཆུབ", "meaning": "enlightenment", "role": "goal" },
+            { "word": "ཏུ", "meaning": "toward (terminative)", "role": "case particle" },
+            { "word": "བསྔོ", "meaning": "shall dedicate", "role": "verb — future stem" }
+          ],
+          "note": "From Samantabhadra's Aspiration Prayer. བསྔོ is the future stem of སྔོ (to dedicate). Dedication of merit is the closing act of all Buddhist practice."
+        },
+        {
+          "tibetan": "ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བར་བྱ།",
+          "transliteration": "chos kyi 'khor lo bskor bar bya",
+          "english": "The wheel of dharma shall be turned.",
+          "breakdown": [
+            { "word": "ཆོས", "meaning": "dharma", "role": "possessor" },
+            { "word": "ཀྱི", "meaning": "of (genitive)", "role": "case particle" },
+            { "word": "འཁོར་ལོ", "meaning": "wheel", "role": "object" },
+            { "word": "བསྐོར", "meaning": "turn", "role": "verb — future stem" },
+            { "word": "བར་བྱ", "meaning": "shall be done", "role": "auxiliary construction" }
+          ],
+          "note": "From Samantabhadra's Aspiration Prayer. བསྐོར་བར་བྱ is a compound future: 'shall be turned'. Requesting the turning of the dharma wheel is one of the seven limbs of practice."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Imperative Stem (སྐུལ་ཚིག)",
+      "rule": "Expressing commands, instructions, and exhortations",
+      "explanation": "The imperative stem is used for direct commands, instructions, and exhortations. It is common in meditation manuals where the teacher gives instructions, and in ritual texts. The imperative typically drops the བ- prefix found in past/future stems and may add a -ས suffix: བསྒོམ → སྒོམས (meditate!), བསྲུང → སྲུངས (protect!). Some irregular verbs have unique imperative forms: འགྲོ → སོང (go!), བྱེད → བྱོས (do it!).",
+      "examples": [
+        {
+          "tibetan": "སེམས་ལ་ལྟོས།",
+          "transliteration": "sems la ltos",
+          "english": "Look at the mind!",
+          "breakdown": [
+            { "word": "སེམས", "meaning": "mind", "role": "object" },
+            { "word": "ལ", "meaning": "at (dative)", "role": "case particle" },
+            { "word": "ལྟོས", "meaning": "look!", "role": "verb — imperative stem" }
+          ],
+          "note": "A classic meditation instruction. ལྟོས is the imperative of བལྟ (to look). The བ- prefix is dropped."
+        },
+        {
+          "tibetan": "བདག་འཛིན་སྤོངས།",
+          "transliteration": "bdag 'dzin spongs",
+          "english": "Abandon self-grasping!",
+          "breakdown": [
+            { "word": "བདག་འཛིན", "meaning": "self-grasping", "role": "object" },
+            { "word": "སྤོངས", "meaning": "abandon!", "role": "verb — imperative stem" }
+          ],
+          "note": "From the spirit of the 37 Practices. སྤོངས is the imperative of སྤོང (to abandon). The -ས suffix marks the imperative."
+        },
+        {
+          "tibetan": "སེམས་ཅན་གྱི་དོན་དུ་བྱོས།",
+          "transliteration": "sems can gyi don du byos",
+          "english": "Act for the benefit of sentient beings!",
+          "breakdown": [
+            { "word": "སེམས་ཅན", "meaning": "sentient beings", "role": "possessor" },
+            { "word": "གྱི", "meaning": "of (genitive)", "role": "case particle" },
+            { "word": "དོན་དུ", "meaning": "for the benefit of", "role": "purpose" },
+            { "word": "བྱོས", "meaning": "do!, act!", "role": "verb — imperative stem" }
+          ],
+          "note": "བྱོས is the irregular imperative of བྱེད (to do). This exhortation captures the entire Mahayana motivation."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Practice Exercises",
+      "description": "Apply your understanding of verb tenses and stems with exercises based on classical Buddhist texts",
+      "exerciseIds": ["exercise-9", "exercise-10", "exercise-11", "exercise-12"]
+    },
+    {
+      "type": "summary",
+      "title": "Key Points",
+      "keyPoints": [
+        { "text": "The present stem describes ongoing or habitual actions and is often the base form of the verb", "topics": [0] },
+        { "text": "The present stem can combine with ཡོད to emphasize continuity", "topics": [0] },
+        { "text": "The past stem describes completed actions and typically adds a བ- prefix and/or -ས suffix", "topics": [1] },
+        { "text": "Past stems are the most common in narrative sutras recounting the Buddha's deeds", "topics": [1] },
+        { "text": "The future stem expresses intentions and aspirations, often used with པར་བྱ (shall be done)", "topics": [2] },
+        { "text": "Future stems are common in prayers, vows, and aspirational texts", "topics": [2] },
+        { "text": "The imperative stem gives commands and instructions, dropping the བ- prefix and often adding -ས", "topics": [3] },
+        { "text": "Imperatives are common in meditation manuals and guru's directives", "topics": [3] }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Verb Stem Reference Table",
+      "url": "/resources/lesson-3-verb-stems.pdf"
+    },
+    {
+      "type": "text",
+      "title": "Common Irregular Verbs",
+      "url": "/resources/lesson-3-irregular-verbs.pdf"
+    }
+  ]
+}

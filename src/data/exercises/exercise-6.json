@@ -1,0 +1,182 @@
+{
+  "id": "exercise-6",
+  "lessonId": "lesson-2",
+  "type": "multipleChoice",
+  "title": "Choose the Correct Case Particle",
+  "difficulty": "beginner",
+  "instruction": "Select the correct case particle to complete each sentence.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Complete: སངས་རྒྱས ___ བསྟན་པ། (The teaching of the Buddha.)",
+      "questionTibetan": "སངས་རྒྱས ___ བསྟན་པ།",
+      "transliteration": "sangs rgyas ___ bstan pa",
+      "english": "The teaching of the Buddha.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "ཀྱི",
+          "transliteration": "kyi (genitive)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ལ",
+          "transliteration": "la (dative)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ནས",
+          "transliteration": "nas (ablative)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "དང",
+          "transliteration": "dang (associative)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This sentence expresses possession: 'of the Buddha'. Which particle means 'of'?"
+    },
+    {
+      "id": "q2",
+      "question": "Complete: དཀོན་མཆོག་གསུམ ___ སྐྱབས་སུ་མཆི། (I go for refuge to the Three Jewels.)",
+      "questionTibetan": "དཀོན་མཆོག་གསུམ ___ སྐྱབས་སུ་མཆི།",
+      "transliteration": "dkon mchog gsum ___ skyabs su mchi",
+      "english": "I go for refuge to the Three Jewels.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "ལ",
+          "transliteration": "la (dative — to, towards)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ཀྱི",
+          "transliteration": "kyi (genitive — of)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ནས",
+          "transliteration": "nas (ablative — from)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "ན",
+          "transliteration": "na (locative — in)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The Three Jewels are the destination of refuge. Which particle indicates direction or recipient?"
+    },
+    {
+      "id": "q3",
+      "question": "Complete: འཁོར་བ ___ ཐར་པ། (Liberation from samsara.)",
+      "questionTibetan": "འཁོར་བ ___ ཐར་པ།",
+      "transliteration": "'khor ba ___ thar pa",
+      "english": "Liberation from samsara.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "ནས",
+          "transliteration": "nas (ablative — from)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ལ",
+          "transliteration": "la (dative — to)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ཀྱི",
+          "transliteration": "kyi (genitive — of)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "སུ",
+          "transliteration": "su (terminative — as, into)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Samsara is the source from which one is liberated. Which particle means 'from'?"
+    },
+    {
+      "id": "q4",
+      "question": "Complete: འཇིག་རྟེན ___ སྡུག་བསྔལ་ཡོད། (In the world, there is suffering.)",
+      "questionTibetan": "འཇིག་རྟེན ___ སྡུག་བསྔལ་ཡོད།",
+      "transliteration": "'jig rten ___ sdug bsngal yod",
+      "english": "In the world, there is suffering.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "ན",
+          "transliteration": "na (locative — in, at)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ལ",
+          "transliteration": "la (dative — to)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ནས",
+          "transliteration": "nas (ablative — from)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "དང",
+          "transliteration": "dang (associative — and, with)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "The world is the location where suffering exists. Which particle indicates location?"
+    },
+    {
+      "id": "q5",
+      "question": "Complete: སྐྱབས ___ མཆི། (I go for refuge / I take refuge.)",
+      "questionTibetan": "སྐྱབས ___ མཆི།",
+      "transliteration": "skyabs ___ mchi",
+      "english": "I go for refuge.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "སུ",
+          "transliteration": "su (terminative — as, for)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "ལ",
+          "transliteration": "la (dative — to)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "ན",
+          "transliteration": "na (locative — in)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "ཀྱི",
+          "transliteration": "kyi (genitive — of)",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Here refuge is the purpose or goal. Which particle means 'as' or 'for'?"
+    }
+  ],
+  "correctFeedback": "Correct! You understand which case particle to use in each context.",
+  "incorrectFeedback": "Not quite. Review the case particles: གི/ཀྱི = of, ལ = to, ན = in, ནས = from, སུ = as/for, དང = and."
+}

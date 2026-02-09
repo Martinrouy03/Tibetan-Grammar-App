@@ -1,0 +1,65 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "title": "Sentence Structure Basics",
+      "titleTibetan": "ཚིག་གྲུབ་གཞི་རྩ།",
+      "description": "Understand the Subject-Object-Verb (SOV) sentence structure in classical Tibetan",
+      "level": "beginner",
+      "category": "grammar",
+      "order": 1,
+      "locked": false,
+      "completed": false,
+      "progress": 0,
+      "prerequisites": [],
+      "estimatedTime": 25,
+      "exerciseCount": 4,
+      "vocabularyCount": 10,
+      "grammarRulesCount": 3
+    },
+    {
+      "id": "lesson-2",
+      "title": "Case Particles",
+      "titleTibetan": "གི་ཚིག་གྲོགས།",
+      "description": "Learn the essential case particles that indicate grammatical relationships in classical Tibetan",
+      "level": "beginner",
+      "category": "grammar",
+      "order": 2,
+      "locked": false,
+      "completed": false,
+      "progress": 0,
+      "prerequisites": ["lesson-1"],
+      "estimatedTime": 30,
+      "exerciseCount": 4,
+      "vocabularyCount": 10,
+      "grammarRulesCount": 3
+    },
+    {
+      "id": "lesson-3",
+      "title": "Verb Tenses and Stems",
+      "titleTibetan": "བྱ་ཚིག་གི་དུས།",
+      "description": "Learn the four verb stems (present, past, future, imperative) and auxiliary verbs in classical Tibetan",
+      "level": "beginner",
+      "category": "grammar",
+      "order": 3,
+      "locked": false,
+      "completed": false,
+      "progress": 0,
+      "prerequisites": ["lesson-1", "lesson-2"],
+      "estimatedTime": 35,
+      "exerciseCount": 4,
+      "vocabularyCount": 10,
+      "grammarRulesCount": 4
+    }
+  ],
+  "categories": [
+    { "id": "grammar", "name": "Classical Tibetan Grammar", "order": 1 },
+    { "id": "vocabulary", "name": "Buddhist Terminology", "order": 2 },
+    { "id": "reading", "name": "Text Reading", "order": 3 }
+  ],
+  "levels": [
+    { "id": "beginner", "name": "Beginner", "order": 1 },
+    { "id": "intermediate", "name": "Intermediate", "order": 2 },
+    { "id": "advanced", "name": "Advanced", "order": 3 }
+  ]
+}

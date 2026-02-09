@@ -1,0 +1,124 @@
+.grammar-section {
+  .grammar-rule {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 4px solid #8B0000;
+    margin-bottom: 30px;
+
+    .rule-title {
+      font-size: 1.4rem;
+      color: #8B0000;
+      font-weight: 600;
+      margin-bottom: 15px;
+    }
+
+    .rule-explanation {
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #333;
+    }
+  }
+
+  .grammar-examples {
+    .examples-title {
+      font-size: 1.3rem;
+      color: #333;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+
+    .grammar-example {
+      background: #fff;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      .example-sentence {
+        margin-bottom: 15px;
+
+        .example-tibetan {
+          font-size: 1.5rem;
+          color: #8B0000;
+          margin-bottom: 8px;
+          line-height: 1.8;
+        }
+
+        .example-transliteration {
+          font-size: 1rem;
+          color: #666;
+          font-style: italic;
+          margin-bottom: 8px;
+        }
+
+        .example-english {
+          font-size: 1.1rem;
+          color: #333;
+        }
+      }
+
+      .audio-control {
+        margin: 15px 0;
+      }
+
+      .word-breakdown {
+        margin-top: 20px;
+        padding: 15px;
+        background: #f8f9fa;
+        border-radius: 6px;
+
+        .breakdown-title {
+          font-weight: 600;
+          color: #8B0000;
+          margin-bottom: 12px;
+        }
+
+        .breakdown-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+          gap: 15px;
+
+          .breakdown-part {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            padding: 10px;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid #e0e0e0;
+
+            .part-word {
+              font-size: 1.2rem;
+              color: #8B0000;
+              font-weight: 600;
+            }
+
+            .part-meaning {
+              font-size: 0.95rem;
+              color: #333;
+            }
+
+            .part-role {
+              font-size: 0.85rem;
+              color: #666;
+              font-style: italic;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .grammar-section {
+    .word-breakdown .breakdown-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+}

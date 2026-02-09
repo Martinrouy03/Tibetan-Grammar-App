@@ -1,0 +1,46 @@
+{
+  "id": "exercise-5",
+  "lessonId": "lesson-2",
+  "type": "translation",
+  "title": "Translate Sentences with Case Particles",
+  "difficulty": "beginner",
+  "instruction": "Translate these classical Tibetan phrases into English. Pay attention to the case particles that indicate the relationships between words.",
+  "questions": [
+    {
+      "id": "q1",
+      "tibetan": "སངས་རྒྱས་ཀྱི་བསྟན་པ།",
+      "transliteration": "sangs rgyas kyi bstan pa",
+      "correctAnswer": "The teaching of the Buddha.",
+      "breakdown": {
+        "possessor": "སངས་རྒྱས (Buddha)",
+        "genitive": "ཀྱི (of)",
+        "possessed": "བསྟན་པ (teaching)"
+      }
+    },
+    {
+      "id": "q2",
+      "tibetan": "སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ།",
+      "transliteration": "sangs rgyas la phyag 'tshal lo",
+      "correctAnswer": "Homage to the Buddha.",
+      "breakdown": {
+        "recipient": "སངས་རྒྱས (Buddha)",
+        "dative": "ལ (to)",
+        "verb": "ཕྱག་འཚལ (homage, prostration)",
+        "final": "ལོ (sentence-final particle)"
+      }
+    },
+    {
+      "id": "q3",
+      "tibetan": "འཁོར་བ་ནས་ཐར་པ།",
+      "transliteration": "'khor ba nas thar pa",
+      "correctAnswer": "Liberation from samsara.",
+      "breakdown": {
+        "source": "འཁོར་བ (samsara)",
+        "ablative": "ནས (from)",
+        "noun": "ཐར་པ (liberation)"
+      }
+    }
+  ],
+  "correctFeedback": "Excellent! You correctly identified the meanings indicated by the case particles.",
+  "incorrectFeedback": "Review the case particles: ཀྱི = of, ལ = to, ནས = from. They change the meaning of the sentence."
+}
