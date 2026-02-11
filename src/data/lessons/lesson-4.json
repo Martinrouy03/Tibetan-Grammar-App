@@ -1,0 +1,326 @@
+{
+  "id": "lesson-4",
+  "title": "Negation",
+  "titleTibetan": "དགག་ཚིག",
+  "level": "beginner",
+  "category": "grammar",
+  "sections": [
+    {
+      "type": "introduction",
+      "title": "Negation in Classical Tibetan",
+      "content": "Negation is one of the most important grammatical structures in classical Tibetan, especially in Buddhist philosophical texts. The Prajnaparamita literature — particularly the Heart Sutra — is built almost entirely on negation: 'no form, no feeling, no perception... no eyes, no ears...' Classical Tibetan uses different negation particles depending on the tense and type of statement: མི (mi) negates present and future verbs, མ (ma) negates past verbs and forms prohibitions, མིན (min) negates equations ('is not'), and མེད (med) negates existence ('does not exist'). Buddhist logic also employs double negation to express the Middle Way — neither affirming nor denying existence. In this lesson, we study these negation patterns with examples drawn from the Heart Sutra, the 37 Practices of Bodhisattvas, and Samantabhadra's Aspiration Prayer.",
+      "contentTibetan": "དགག་ཚིག་ནི་བོད་ཀྱི་བརྡ་སྤྲོད་ནང་གལ་ཆེན་པོ་ཞིག་སྟེ། ཁྱད་པར་དུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་གསུང་རབ་ལ་དགག་ཚིག་མང་པོ་འབྱུང༌།"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Negation Vocabulary",
+      "words": [
+        {
+          "id": "vocab-1",
+          "tibetan": "མི",
+          "transliteration": "mi",
+          "english": "not (negates present/future verbs)",
+          "example": {
+            "tibetan": "གཟུགས་མི་སྐྱེ།",
+            "transliteration": "gzugs mi skye",
+            "english": "Form does not arise.",
+            "literalTranslation": "Form not arises",
+            "note": "From the Heart Sutra. མི placed before the verb negates present/future actions."
+          }
+        },
+        {
+          "id": "vocab-2",
+          "tibetan": "མ",
+          "transliteration": "ma",
+          "english": "not (negates past verbs); do not (prohibition)",
+          "example": {
+            "tibetan": "ཉོན་མོངས་མ་སྤངས།",
+            "transliteration": "nyon mongs ma spangs",
+            "english": "The afflictions were not abandoned.",
+            "literalTranslation": "Afflictions not abandoned",
+            "note": "མ before a past-tense verb negates a completed action."
+          }
+        },
+        {
+          "id": "vocab-3",
+          "tibetan": "མིན",
+          "transliteration": "min",
+          "english": "is not (negates ཡིན, equative negation)",
+          "example": {
+            "tibetan": "འདི་ནི་ཆོས་མིན།",
+            "transliteration": "'di ni chos min",
+            "english": "This is not dharma.",
+            "literalTranslation": "This (topic) dharma is-not",
+            "note": "མིན is the negative of ཡིན (to be). It negates identity or classification."
+          }
+        },
+        {
+          "id": "vocab-4",
+          "tibetan": "མེད",
+          "transliteration": "med",
+          "english": "does not exist, there is no (negates ཡོད)",
+          "example": {
+            "tibetan": "མིག་མེད། རྣ་བ་མེད། སྣ་མེད།",
+            "transliteration": "mig med rna ba med sna med",
+            "english": "There are no eyes, no ears, no nose.",
+            "literalTranslation": "Eyes not-exist. Ears not-exist. Nose not-exist.",
+            "note": "From the Heart Sutra. མེད negates the existence of the sense organs in emptiness."
+          }
+        },
+        {
+          "id": "vocab-5",
+          "tibetan": "མ་ཡིན",
+          "transliteration": "ma yin",
+          "english": "is not (formal/emphatic form of མིན)",
+          "example": {
+            "tibetan": "སྟོང་པ་ཉིད་གཟུགས་ལས་གཞན་མ་ཡིན།",
+            "transliteration": "stong pa nyid gzugs las gzhan ma yin",
+            "english": "Emptiness is not other than form.",
+            "literalTranslation": "Emptiness form from other is-not",
+            "note": "From the Heart Sutra. མ་ཡིན is the full form of མིན, used in formal philosophical statements."
+          }
+        },
+        {
+          "id": "vocab-6",
+          "tibetan": "མེད་པ",
+          "transliteration": "med pa",
+          "english": "non-existence, absence, without",
+          "example": {
+            "tibetan": "བདག་མེད་པ་ནི་ཆོས་ཀྱི་གནས་ལུགས་ཡིན།",
+            "transliteration": "bdag med pa ni chos kyi gnas lugs yin",
+            "english": "Selflessness is the nature of phenomena.",
+            "literalTranslation": "Self-less-ness (topic) phenomena's nature is",
+            "note": "མེད་པ is the nominalized form — 'the state of not existing' — used as a noun."
+          }
+        },
+        {
+          "id": "vocab-7",
+          "tibetan": "གཟུགས",
+          "transliteration": "gzugs",
+          "english": "form, matter (first of the five aggregates)",
+          "example": {
+            "tibetan": "གཟུགས་སྟོང་པའོ། སྟོང་པ་ཉིད་གཟུགས་སོ།",
+            "transliteration": "gzugs stong pa'o stong pa nyid gzugs so",
+            "english": "Form is emptiness. Emptiness is form.",
+            "literalTranslation": "Form empty-is. Emptiness form-is.",
+            "note": "The most famous lines of the Heart Sutra. The negation of form's inherent existence."
+          }
+        },
+        {
+          "id": "vocab-8",
+          "tibetan": "ཤེས་རབ",
+          "transliteration": "shes rab",
+          "english": "wisdom, prajna",
+          "example": {
+            "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ།",
+            "transliteration": "shes rab kyi pha rol tu phyin pa",
+            "english": "The Perfection of Wisdom (Prajnaparamita).",
+            "literalTranslation": "Wisdom's far shore to gone",
+            "note": "The title of the Prajnaparamita sutras. ཤེས་རབ is the wisdom that sees emptiness through negation."
+          }
+        },
+        {
+          "id": "vocab-9",
+          "tibetan": "སྒྲིབ་པ",
+          "transliteration": "sgrib pa",
+          "english": "obscuration, veil",
+          "example": {
+            "tibetan": "སྒྲིབ་པ་མེད་པས་འཇིགས་པ་མེད།",
+            "transliteration": "sgrib pa med pas 'jigs pa med",
+            "english": "Because there is no obscuration, there is no fear.",
+            "literalTranslation": "Obscuration not-existing-because fear not-exists",
+            "note": "From the Heart Sutra. Double use of མེད — the absence of obscuration leads to the absence of fear."
+          }
+        },
+        {
+          "id": "vocab-10",
+          "tibetan": "སྐྱེ / འགག",
+          "transliteration": "skye / 'gag",
+          "english": "to arise / to cease",
+          "example": {
+            "tibetan": "མི་སྐྱེ་མི་འགག",
+            "transliteration": "mi skye mi 'gag",
+            "english": "Neither arising nor ceasing.",
+            "literalTranslation": "Not arises, not ceases",
+            "note": "From the Heart Sutra. The famous negation of arising and ceasing — the nature of emptiness."
+          }
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "མི — Present and Future Negation",
+      "rule": "Negating present and future actions with མི",
+      "explanation": "The particle མི (mi) is placed directly before the verb to negate present and future tense actions. It expresses that something does not happen, is not happening, or will not happen. In the Heart Sutra, མི is used extensively to negate the characteristics of phenomena in emptiness: མི་སྐྱེ (does not arise), མི་འགག (does not cease), མི་དྲི་མ (not defiled), མི་གཙང (not pure), མི་བྲི (does not diminish), མི་འཕེལ (does not increase). This pattern of negation reveals the ultimate nature of reality as taught in the Prajnaparamita.",
+      "examples": [
+        {
+          "tibetan": "ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་དེ། མི་སྐྱེ་མི་འགག །མི་དྲི་མ་མེད་མི་གཙང་བ་མེད།",
+          "transliteration": "chos thams cad stong pa nyid de, mi skye mi 'gag, mi dri ma med mi gtsang ba med",
+          "english": "All phenomena are emptiness — not arising, not ceasing, not defiled, not pure.",
+          "breakdown": [
+            { "word": "ཆོས་ཐམས་ཅད", "meaning": "all phenomena", "role": "subject" },
+            { "word": "སྟོང་པ་ཉིད", "meaning": "emptiness", "role": "predicate" },
+            { "word": "མི་སྐྱེ", "meaning": "not arising", "role": "མི + present verb" },
+            { "word": "མི་འགག", "meaning": "not ceasing", "role": "མི + present verb" },
+            { "word": "མི་དྲི་མ་མེད", "meaning": "not defiled", "role": "མི + adjective" },
+            { "word": "མི་གཙང་བ་མེད", "meaning": "not pure", "role": "མི + adjective" }
+          ],
+          "note": "From the Heart Sutra. The series of མི negations describes the eight qualities of emptiness (neither arising nor ceasing, neither defiled nor pure, neither increasing nor decreasing)."
+        },
+        {
+          "tibetan": "རྒྱལ་སྲས་བདག་ཉིད་ཀྱི་བདེ་བ་མི་འཚོལ།",
+          "transliteration": "rgyal sras bdag nyid kyi bde ba mi 'tshol",
+          "english": "The bodhisattva does not seek happiness for himself.",
+          "breakdown": [
+            { "word": "རྒྱལ་སྲས", "meaning": "bodhisattva", "role": "subject" },
+            { "word": "བདག་ཉིད་ཀྱི", "meaning": "for oneself", "role": "possessor + genitive" },
+            { "word": "བདེ་བ", "meaning": "happiness", "role": "object" },
+            { "word": "མི་འཚོལ", "meaning": "does not seek", "role": "མི + present verb" }
+          ],
+          "note": "In the spirit of the 37 Practices. མི before འཚོལ (to seek) negates the present action."
+        },
+        {
+          "tibetan": "སྟོང་པའི་ངང་ལ་ཆོས་མི་དམིགས།",
+          "transliteration": "stong pa'i ngang la chos mi dmigs",
+          "english": "In the state of emptiness, phenomena are not apprehended.",
+          "breakdown": [
+            { "word": "སྟོང་པའི་ངང", "meaning": "the state of emptiness", "role": "location" },
+            { "word": "ལ", "meaning": "in (locative)", "role": "case particle" },
+            { "word": "ཆོས", "meaning": "phenomena", "role": "subject" },
+            { "word": "མི་དམིགས", "meaning": "are not apprehended", "role": "མི + present verb" }
+          ],
+          "note": "A key Prajnaparamita teaching. མི་དམིགས means 'not apprehended' — nothing can be grasped in the state of emptiness."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "མ — Past and Imperative Negation",
+      "rule": "Negating past actions and forming prohibitions with མ",
+      "explanation": "The particle མ (ma) negates past tense verbs and forms prohibitions (negative imperatives, i.e. 'do not!'). For past negation, མ is placed before the past stem: མ་བྱས (did not do), མ་སོང (did not go), མ་བསྒོམས (did not meditate). For prohibitions, མ is placed before the imperative or present stem: མ་བྱེད (don't do!), མ་སོང (don't go!), མ་སྤོང (don't abandon!). Context distinguishes past negation from prohibition — past negation describes what didn't happen, while prohibitions are commands directed at the listener.",
+      "examples": [
+        {
+          "tibetan": "རྒྱལ་སྲས་ཀྱིས་ཉོན་མོངས་ལ་དབང་མ་བྱིན།",
+          "transliteration": "rgyal sras kyis nyon mongs la dbang ma byin",
+          "english": "The bodhisattva did not give power to the afflictions.",
+          "breakdown": [
+            { "word": "རྒྱལ་སྲས", "meaning": "bodhisattva", "role": "subject" },
+            { "word": "ཀྱིས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "ཉོན་མོངས", "meaning": "afflictions (kleshas)", "role": "indirect object" },
+            { "word": "ལ", "meaning": "to (dative)", "role": "case particle" },
+            { "word": "དབང", "meaning": "power", "role": "object" },
+            { "word": "མ་བྱིན", "meaning": "did not give", "role": "མ + past stem" }
+          ],
+          "note": "In the spirit of the 37 Practices. མ before the past stem བྱིན negates the completed action."
+        },
+        {
+          "tibetan": "ཉོན་མོངས་ཀྱི་དབང་དུ་མ་སོང༌།",
+          "transliteration": "nyon mongs kyi dbang du ma song",
+          "english": "Do not fall under the power of the afflictions!",
+          "breakdown": [
+            { "word": "ཉོན་མོངས", "meaning": "afflictions", "role": "possessor" },
+            { "word": "ཀྱི", "meaning": "of (genitive)", "role": "case particle" },
+            { "word": "དབང་དུ", "meaning": "under the power of", "role": "purpose" },
+            { "word": "མ་སོང", "meaning": "do not go!", "role": "མ + imperative (prohibition)" }
+          ],
+          "note": "From the spirit of the 37 Practices. མ་སོང is a prohibition: 'don't go!' The imperative of འགྲོ is སོང."
+        },
+        {
+          "tibetan": "ཀུན་ཏུ་བཟང་པོས་སྨོན་ལམ་མ་བཏབ་ན། བྱང་ཆུབ་མི་ཐོབ།",
+          "transliteration": "kun tu bzang pos smon lam ma btab na byang chub mi thob",
+          "english": "If Samantabhadra had not made aspiration prayers, enlightenment would not be attained.",
+          "breakdown": [
+            { "word": "ཀུན་ཏུ་བཟང་པོ", "meaning": "Samantabhadra", "role": "subject" },
+            { "word": "ས", "meaning": "(agentive)", "role": "case marker" },
+            { "word": "སྨོན་ལམ", "meaning": "aspiration prayers", "role": "object" },
+            { "word": "མ་བཏབ་ན", "meaning": "had not made, if... not", "role": "མ + past stem + conditional" },
+            { "word": "བྱང་ཆུབ", "meaning": "enlightenment", "role": "object" },
+            { "word": "མི་ཐོབ", "meaning": "would not attain", "role": "མི + present/future verb" }
+          ],
+          "note": "From Samantabhadra's Aspiration Prayer. Shows both མ (past negation) and མི (present/future negation) in the same sentence."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "མིན/མེད — Existential Negation and Double Negation",
+      "rule": "Negating existence and identity; double negation in Buddhist logic",
+      "explanation": "མིན (min) is the negative of ཡིན (to be) and negates identity: 'X is not Y'. མེད (med) is the negative of ཡོད (to exist) and negates existence: 'X does not exist'. The formal variant མ་ཡིན is used in philosophical texts. These two negations are central to Buddhist philosophy — the Heart Sutra uses མེད extensively to negate the existence of phenomena in emptiness. Buddhist logic also uses double negation: མེད་པ་མ་ཡིན (not non-existent) does not simply mean 'existent' but points to a reality beyond both existence and non-existence — the Middle Way (དབུ་མ). This is how the Prajnaparamita literature avoids both eternalism and nihilism.",
+      "examples": [
+        {
+          "tibetan": "སྟོང་པ་ཉིད་ལ་གཟུགས་མེད། ཚོར་བ་མེད། འདུ་ཤེས་མེད། འདུ་བྱེད་མེད། རྣམ་ཤེས་མེད།",
+          "transliteration": "stong pa nyid la gzugs med tshor ba med 'du shes med 'du byed med rnam shes med",
+          "english": "In emptiness there is no form, no feeling, no perception, no formation, no consciousness.",
+          "breakdown": [
+            { "word": "སྟོང་པ་ཉིད་ལ", "meaning": "in emptiness", "role": "location" },
+            { "word": "གཟུགས་མེད", "meaning": "no form", "role": "noun + མེད (non-existence)" },
+            { "word": "ཚོར་བ་མེད", "meaning": "no feeling", "role": "noun + མེད" },
+            { "word": "འདུ་ཤེས་མེད", "meaning": "no perception", "role": "noun + མེད" },
+            { "word": "འདུ་བྱེད་མེད", "meaning": "no formation", "role": "noun + མེད" },
+            { "word": "རྣམ་ཤེས་མེད", "meaning": "no consciousness", "role": "noun + མེད" }
+          ],
+          "note": "From the Heart Sutra. The five aggregates (ཕུང་པོ་ལྔ) are each negated with མེད — they do not exist as inherently real in emptiness."
+        },
+        {
+          "tibetan": "ཆོས་རྣམས་བདེན་པ་མིན། རྫུན་པ་ཡང་མིན།",
+          "transliteration": "chos rnams bden pa min rdzun pa yang min",
+          "english": "Phenomena are not true. Nor are they false.",
+          "breakdown": [
+            { "word": "ཆོས་རྣམས", "meaning": "phenomena", "role": "subject" },
+            { "word": "བདེན་པ", "meaning": "true", "role": "predicate" },
+            { "word": "མིན", "meaning": "is not", "role": "negative of ཡིན" },
+            { "word": "རྫུན་པ", "meaning": "false", "role": "predicate" },
+            { "word": "ཡང་མིན", "meaning": "also is not", "role": "ཡང (also) + མིན" }
+          ],
+          "note": "A Middle Way (Madhyamaka) statement. Neither affirming nor denying — this is how Buddhist logic uses double negation to point beyond conceptual extremes."
+        },
+        {
+          "tibetan": "སྒྲིབ་པ་མེད་པས་འཇིགས་པ་མེད་དེ། ཕྱིན་ཅི་ལོག་ལས་ཤིན་ཏུ་འདས་ནས་མྱ་ངན་ལས་འདས་པར་ཕྱིན་ཏོ།",
+          "transliteration": "sgrib pa med pas 'jigs pa med de phyin ci log las shin tu 'das nas mya ngan las 'das par phyin to",
+          "english": "Because there is no obscuration, there is no fear; having completely passed beyond error, one reaches nirvana.",
+          "breakdown": [
+            { "word": "སྒྲིབ་པ་མེད་པས", "meaning": "because there is no obscuration", "role": "མེད + causal particle" },
+            { "word": "འཇིགས་པ་མེད", "meaning": "there is no fear", "role": "noun + མེད" },
+            { "word": "ཕྱིན་ཅི་ལོག", "meaning": "error, wrong views", "role": "object" },
+            { "word": "ལས", "meaning": "from (ablative)", "role": "case particle" },
+            { "word": "ཤིན་ཏུ་འདས", "meaning": "completely passed beyond", "role": "verb" },
+            { "word": "མྱ་ངན་ལས་འདས་པ", "meaning": "nirvana (gone beyond suffering)", "role": "goal" }
+          ],
+          "note": "From the Heart Sutra. A chain of negations: no obscuration → no fear → beyond error → nirvana. This shows how negation leads to liberation in Prajnaparamita."
+        }
+      ]
+    },
+    {
+      "type": "practice",
+      "title": "Practice Exercises",
+      "description": "Practice identifying and using negation particles in classical Buddhist texts",
+      "exerciseIds": ["exercise-13", "exercise-14", "exercise-15", "exercise-16"]
+    },
+    {
+      "type": "summary",
+      "title": "Key Points",
+      "keyPoints": [
+        { "text": "མི (mi) negates present and future tense verbs: མི་སྐྱེ (does not arise), མི་འགག (does not cease)", "topics": [0] },
+        { "text": "མི is placed directly before the verb it negates", "topics": [0] },
+        { "text": "The Heart Sutra uses མི extensively to describe the eight qualities of emptiness", "topics": [0] },
+        { "text": "མ (ma) negates past tense verbs: མ་བྱས (did not do), མ་སོང (did not go)", "topics": [1] },
+        { "text": "མ also forms prohibitions (negative imperatives): མ་བྱེད (don't do!), མ་སོང (don't go!)", "topics": [1] },
+        { "text": "མིན negates ཡིན (is not) for identity; མེད negates ཡོད (does not exist) for existence", "topics": [2] },
+        { "text": "མ་ཡིན is the formal variant of མིན, used in philosophical texts", "topics": [2] },
+        { "text": "Double negation (མེད་པ་མ་ཡིན 'not non-existent') points to the Middle Way beyond existence and non-existence", "topics": [2] }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "pdf",
+      "title": "Negation Particles Reference",
+      "url": "/resources/lesson-4-negation.pdf"
+    },
+    {
+      "type": "text",
+      "title": "Heart Sutra Negation Patterns",
+      "url": "/resources/lesson-4-heart-sutra-negation.pdf"
+    }
+  ]
+}

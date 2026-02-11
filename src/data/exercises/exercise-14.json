@@ -1,0 +1,182 @@
+{
+  "id": "exercise-14",
+  "lessonId": "lesson-4",
+  "type": "multipleChoice",
+  "title": "Choose the Correct Negation Particle",
+  "difficulty": "beginner",
+  "instruction": "Select the correct negation particle to complete each sentence from classical Buddhist texts.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Complete: གཟུགས ___ སྐྱེ། (Form does not arise.) [Heart Sutra]",
+      "questionTibetan": "གཟུགས ___ སྐྱེ།",
+      "transliteration": "gzugs ___ skye",
+      "english": "Form does not arise.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མི",
+          "transliteration": "mi — negates present/future verbs",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མ",
+          "transliteration": "ma — negates past verbs or prohibitions",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "མིན",
+          "transliteration": "min — negates identity (is not)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "མེད",
+          "transliteration": "med — negates existence",
+          "isCorrect": false
+        }
+      ],
+      "hint": "སྐྱེ (to arise) is a present tense verb. Which particle negates present tense?"
+    },
+    {
+      "id": "q2",
+      "question": "Complete: རྒྱལ་སྲས་ཀྱིས་ཉོན་མོངས་ལ་དབང ___ བྱིན། (The bodhisattva did not give power to the afflictions.) [37 Practices]",
+      "questionTibetan": "རྒྱལ་སྲས་ཀྱིས་ཉོན་མོངས་ལ་དབང ___ བྱིན།",
+      "transliteration": "rgyal sras kyis nyon mongs la dbang ___ byin",
+      "english": "The bodhisattva did not give power to the afflictions.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མ",
+          "transliteration": "ma — negates past verbs",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མི",
+          "transliteration": "mi — negates present/future verbs",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "མེད",
+          "transliteration": "med — negates existence",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "མིན",
+          "transliteration": "min — negates identity",
+          "isCorrect": false
+        }
+      ],
+      "hint": "བྱིན (gave) is the past stem of སྦྱིན. Which particle negates past tense?"
+    },
+    {
+      "id": "q3",
+      "question": "Complete: སྟོང་པ་ཉིད་ལ་མིག ___ (In emptiness there are no eyes.) [Heart Sutra]",
+      "questionTibetan": "སྟོང་པ་ཉིད་ལ་མིག ___",
+      "transliteration": "stong pa nyid la mig ___",
+      "english": "In emptiness there are no eyes.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མེད",
+          "transliteration": "med — negates existence (does not exist)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མིན",
+          "transliteration": "min — negates identity (is not)",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "མི",
+          "transliteration": "mi — negates present/future verbs",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "མ",
+          "transliteration": "ma — negates past verbs",
+          "isCorrect": false
+        }
+      ],
+      "hint": "We are negating the existence of eyes. Which particle negates existence (the opposite of ཡོད)?"
+    },
+    {
+      "id": "q4",
+      "question": "Complete: འདི་ནི་ཆོས ___ (This is not dharma.)",
+      "questionTibetan": "འདི་ནི་ཆོས ___",
+      "transliteration": "'di ni chos ___",
+      "english": "This is not dharma.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མིན",
+          "transliteration": "min — negates identity (is not)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མེད",
+          "transliteration": "med — negates existence",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "མི",
+          "transliteration": "mi — negates present/future verbs",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "མ",
+          "transliteration": "ma — negates past verbs",
+          "isCorrect": false
+        }
+      ],
+      "hint": "We are saying 'this IS NOT dharma' — negating identity. Which particle negates ཡིན (to be)?"
+    },
+    {
+      "id": "q5",
+      "question": "Complete: ཉོན་མོངས་ཀྱི་དབང་དུ ___ སོང༌། (Do not fall under the power of the afflictions!) [37 Practices]",
+      "questionTibetan": "ཉོན་མོངས་ཀྱི་དབང་དུ ___ སོང༌།",
+      "transliteration": "nyon mongs kyi dbang du ___ song",
+      "english": "Do not fall under the power of the afflictions!",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མ",
+          "transliteration": "ma — forms prohibitions (do not!)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མི",
+          "transliteration": "mi — negates present/future statements",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "མེད",
+          "transliteration": "med — negates existence",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "མིན",
+          "transliteration": "min — negates identity",
+          "isCorrect": false
+        }
+      ],
+      "hint": "This is a command — 'don't go!' Which particle forms prohibitions (negative imperatives)?"
+    }
+  ],
+  "correctFeedback": "Correct! You can distinguish between the four negation particles: མི (present/future), མ (past/prohibition), མིན (identity), མེད (existence).",
+  "incorrectFeedback": "Review: མི negates present/future verbs, མ negates past verbs and forms prohibitions, མིན negates identity (is not), མེད negates existence (does not exist)."
+}

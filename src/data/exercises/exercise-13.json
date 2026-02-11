@@ -1,0 +1,46 @@
+{
+  "id": "exercise-13",
+  "lessonId": "lesson-4",
+  "type": "translation",
+  "title": "Translate Negation Sentences",
+  "difficulty": "beginner",
+  "instruction": "Translate these sentences from classical Buddhist texts. Pay attention to the negation particles མི and མ.",
+  "questions": [
+    {
+      "id": "q1",
+      "tibetan": "གཟུགས་མི་སྐྱེ་མི་འགག",
+      "transliteration": "gzugs mi skye mi 'gag",
+      "correctAnswer": "Form does not arise and does not cease.",
+      "breakdown": {
+        "subject": "གཟུགས (form)",
+        "negation1": "མི་སྐྱེ (does not arise — མི + present verb)",
+        "negation2": "མི་འགག (does not cease — མི + present verb)",
+        "source": "Heart Sutra"
+      }
+    },
+    {
+      "id": "q2",
+      "tibetan": "སྒྲིབ་པ་མེད་པས་འཇིགས་པ་མེད།",
+      "transliteration": "sgrib pa med pas 'jigs pa med",
+      "correctAnswer": "Because there is no obscuration, there is no fear.",
+      "breakdown": {
+        "cause": "སྒྲིབ་པ་མེད་པས (because there is no obscuration — མེད + causal)",
+        "result": "འཇིགས་པ་མེད (there is no fear — མེད)",
+        "source": "Heart Sutra"
+      }
+    },
+    {
+      "id": "q3",
+      "tibetan": "ཉོན་མོངས་ཀྱི་དབང་དུ་མ་སོང༌།",
+      "transliteration": "nyon mongs kyi dbang du ma song",
+      "correctAnswer": "Do not fall under the power of the afflictions!",
+      "breakdown": {
+        "object": "ཉོན་མོངས་ཀྱི་དབང་དུ (under the power of afflictions)",
+        "verb": "མ་སོང (do not go! — མ + imperative prohibition)",
+        "source": "37 Practices of Bodhisattvas"
+      }
+    }
+  ],
+  "correctFeedback": "Excellent! You correctly identified the negation patterns in these classical sentences.",
+  "incorrectFeedback": "Review the negation particles: མི negates present/future verbs, མ negates past verbs and forms prohibitions, མེད means 'does not exist'."
+}

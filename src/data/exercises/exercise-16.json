@@ -1,0 +1,182 @@
+{
+  "id": "exercise-16",
+  "lessonId": "lesson-4",
+  "type": "multipleChoice",
+  "title": "Identify Negation Functions",
+  "difficulty": "beginner",
+  "instruction": "Identify the function of the negation particle in each sentence from classical Buddhist texts.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What does མི do in: གཟུགས་མི་སྐྱེ་མི་འགག (Form does not arise, does not cease) [Heart Sutra]",
+      "questionTibetan": "གཟུགས་མི་སྐྱེ་མི་འགག",
+      "transliteration": "gzugs mi skye mi 'gag",
+      "english": "Form does not arise, does not cease.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Negates present tense verbs",
+          "transliteration": "མི negates སྐྱེ (arise) and འགག (cease) — both present verbs",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Negates past tense verbs",
+          "transliteration": "Past negation uses མ, not མི",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Negates existence",
+          "transliteration": "Existence negation uses མེད",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Forms a prohibition",
+          "transliteration": "Prohibitions use མ, not མི",
+          "isCorrect": false
+        }
+      ],
+      "hint": "སྐྱེ and འགག are present tense verbs. མི is placed before them."
+    },
+    {
+      "id": "q2",
+      "question": "What is the function of མེད in: མིག་མེད། རྣ་བ་མེད། སྣ་མེད། (No eyes, no ears, no nose.) [Heart Sutra]",
+      "questionTibetan": "མིག་མེད། རྣ་བ་མེད། སྣ་མེད།",
+      "transliteration": "mig med rna ba med sna med",
+      "english": "No eyes, no ears, no nose.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Negates existence of each sense organ",
+          "transliteration": "མེད negates ཡོད — these sense organs do not exist (in emptiness)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Negates identity of each sense organ",
+          "transliteration": "Identity negation uses མིན, not མེད",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Negates a present tense action",
+          "transliteration": "Present tense negation uses མི",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Forms a prohibition",
+          "transliteration": "Prohibitions use མ before a verb",
+          "isCorrect": false
+        }
+      ],
+      "hint": "མེད is the negative of ཡོད (to exist). What is being negated here?"
+    },
+    {
+      "id": "q3",
+      "question": "What does མ do in: ཉོན་མོངས་ཀྱི་དབང་དུ་མ་སོང༌། (Do not fall under the power of the afflictions!) [37 Practices]",
+      "questionTibetan": "ཉོན་མོངས་ཀྱི་དབང་དུ་མ་སོང༌།",
+      "transliteration": "nyon mongs kyi dbang du ma song",
+      "english": "Do not fall under the power of the afflictions!",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "Forms a prohibition (do not!)",
+          "transliteration": "མ before imperative སོང = prohibition 'don't go!'",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Negates a past action",
+          "transliteration": "མ can negate past verbs, but here it is a command",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Negates existence",
+          "transliteration": "Existence negation uses མེད",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Negates a present action",
+          "transliteration": "Present negation uses མི, not མ",
+          "isCorrect": false
+        }
+      ],
+      "hint": "སོང is the imperative of འགྲོ (to go). མ before an imperative means..."
+    },
+    {
+      "id": "q4",
+      "question": "What does the double negation express in: ཆོས་རྣམས་བདེན་པ་མིན། རྫུན་པ་ཡང་མིན། (Phenomena are not true, nor false.)",
+      "questionTibetan": "ཆོས་རྣམས་བདེན་པ་མིན། རྫུན་པ་ཡང་མིན།",
+      "transliteration": "chos rnams bden pa min rdzun pa yang min",
+      "english": "Phenomena are not true, nor are they false.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "The Middle Way — beyond both extremes",
+          "transliteration": "Neither true nor false = neither eternalism nor nihilism",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "Phenomena are simply false",
+          "transliteration": "The text explicitly says they are NOT false either",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "Phenomena definitely exist",
+          "transliteration": "The double negation does not affirm existence",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "Nothing can be known about phenomena",
+          "transliteration": "This is not skepticism but the Middle Way view",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Buddhist logic uses double negation to avoid both extremes of eternalism and nihilism."
+    },
+    {
+      "id": "q5",
+      "question": "Which pair correctly matches the negation particle to what it negates?",
+      "questionTibetan": "",
+      "transliteration": "",
+      "english": "Match the negation particle to its function.",
+      "options": [
+        {
+          "id": "option-a",
+          "text": "མིན negates ཡིན, མེད negates ཡོད",
+          "transliteration": "མིན (is not) negates ཡིན (is); མེད (not exist) negates ཡོད (exists)",
+          "isCorrect": true
+        },
+        {
+          "id": "option-b",
+          "text": "མིན negates ཡོད, མེད negates ཡིན",
+          "transliteration": "This is reversed — མིན goes with ཡིན, མེད with ཡོད",
+          "isCorrect": false
+        },
+        {
+          "id": "option-c",
+          "text": "མི negates ཡིན, མ negates ཡོད",
+          "transliteration": "མི/མ negate verbs, not auxiliaries ཡིན/ཡོད",
+          "isCorrect": false
+        },
+        {
+          "id": "option-d",
+          "text": "མེད negates ཡིན, མིན negates past verbs",
+          "transliteration": "མིན negates ཡིན (identity), not past verbs",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ཡིན means 'to be' (identity), ཡོད means 'to exist'. Each has its own negative form."
+    }
+  ],
+  "correctFeedback": "Excellent! You understand the four negation particles and their distinct functions in classical Tibetan.",
+  "incorrectFeedback": "Review the four negation particles: མི (present/future verbs), མ (past verbs + prohibitions), མིན (negates ཡིན — identity), མེད (negates ཡོད — existence)."
+}

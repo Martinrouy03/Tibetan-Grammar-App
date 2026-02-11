@@ -1,0 +1,49 @@
+{
+  "id": "exercise-15",
+  "lessonId": "lesson-4",
+  "type": "translation",
+  "title": "Translate Existential Negation and Double Negation",
+  "difficulty": "beginner",
+  "instruction": "Translate these sentences focusing on མིན/མེད (existential negation) and double negation from Prajnaparamita literature.",
+  "questions": [
+    {
+      "id": "q1",
+      "tibetan": "སྟོང་པ་ཉིད་ལ་གཟུགས་མེད། ཚོར་བ་མེད། འདུ་ཤེས་མེད།",
+      "transliteration": "stong pa nyid la gzugs med tshor ba med 'du shes med",
+      "correctAnswer": "In emptiness there is no form, no feeling, no perception.",
+      "breakdown": {
+        "location": "སྟོང་པ་ཉིད་ལ (in emptiness)",
+        "negation1": "གཟུགས་མེད (no form — མེད negates existence)",
+        "negation2": "ཚོར་བ་མེད (no feeling)",
+        "negation3": "འདུ་ཤེས་མེད (no perception)",
+        "source": "Heart Sutra"
+      }
+    },
+    {
+      "id": "q2",
+      "tibetan": "ཆོས་རྣམས་བདེན་པ་མིན། རྫུན་པ་ཡང་མིན།",
+      "transliteration": "chos rnams bden pa min rdzun pa yang min",
+      "correctAnswer": "Phenomena are not true. Nor are they false.",
+      "breakdown": {
+        "subject": "ཆོས་རྣམས (phenomena)",
+        "negation1": "བདེན་པ་མིན (are not true — མིན negates identity)",
+        "negation2": "རྫུན་པ་ཡང་མིན (nor false — double negation, neither true nor false)",
+        "source": "Madhyamaka philosophy"
+      }
+    },
+    {
+      "id": "q3",
+      "tibetan": "སྟོང་པ་ཉིད་གཟུགས་ལས་གཞན་མ་ཡིན།",
+      "transliteration": "stong pa nyid gzugs las gzhan ma yin",
+      "correctAnswer": "Emptiness is not other than form.",
+      "breakdown": {
+        "subject": "སྟོང་པ་ཉིད (emptiness)",
+        "comparison": "གཟུགས་ལས་གཞན (other than form — ablative)",
+        "negation": "མ་ཡིན (is not — formal negative of ཡིན)",
+        "source": "Heart Sutra"
+      }
+    }
+  ],
+  "correctFeedback": "Excellent! You understand how མིན/མེད and double negation work in Buddhist philosophical texts.",
+  "incorrectFeedback": "Review: མེད means 'does not exist' (negates ཡོད), མིན/མ་ཡིན means 'is not' (negates ཡིན). Double negation (neither X nor not-X) points to the Middle Way."
+}

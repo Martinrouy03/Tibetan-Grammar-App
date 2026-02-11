@@ -50,6 +50,23 @@
       "exerciseCount": 4,
       "vocabularyCount": 10,
       "grammarRulesCount": 4
+    },
+    {
+      "id": "lesson-4",
+      "title": "Negation",
+      "titleTibetan": "དགག་ཚིག",
+      "description": "Learn negation particles མི, མ, མིན/མེད and double negation in Buddhist logic",
+      "level": "beginner",
+      "category": "grammar",
+      "order": 4,
+      "locked": false,
+      "completed": false,
+      "progress": 0,
+      "prerequisites": ["lesson-1", "lesson-2", "lesson-3"],
+      "estimatedTime": 30,
+      "exerciseCount": 4,
+      "vocabularyCount": 10,
+      "grammarRulesCount": 3
     }
   ],
   "categories": [
